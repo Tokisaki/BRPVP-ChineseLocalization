@@ -11103,40 +11103,40 @@
 				<English>The vehicle is not ok!</English>
 				<Portuguese>O veículo não esta ok!</Portuguese>
 				<Russian>The vehicle is not ok!</Russian>
-				<Chinesesimp>The vehicle is not ok!</Chinesesimp>
-				<Chinese>The vehicle is not ok!</Chinese>
+				<Chinesesimp>这车不行了!</Chinesesimp>
+				<Chinese>这车不行了!</Chinese>
 			</Key>
 			<Key ID="str_class_ad_remove_false">
 				<Original>REMOVE THE FALSE AD FOR THIS VEHICLE?</Original>
 				<English>REMOVE THE FALSE AD FOR THIS VEHICLE?</English>
 				<Portuguese>REMOVER O CLASSIFICADO FALSO PARA ESTE VEÍCULO?</Portuguese>
 				<Russian>REMOVE THE FALSE AD FOR THIS VEHICLE?</Russian>
-				<Chinesesimp>REMOVE THE FALSE AD FOR THIS VEHICLE?</Chinesesimp>
-				<Chinese>REMOVE THE FALSE AD FOR THIS VEHICLE?</Chinese>
+				<Chinesesimp>要从这辆车上移除虚假的机密信息吗?</Chinesesimp>
+				<Chinese>要从这辆车上移除虚假的机密信息吗?</Chinese>
 			</Key>
 			<Key ID="str_class_ad_false_removed">
 				<Original>The false ad was removed!</Original>
 				<English>The false ad was removed!</English>
 				<Portuguese>O anúncio falso foi removido!</Portuguese>
 				<Russian>The false ad was removed!</Russian>
-				<Chinesesimp>The false ad was removed!</Chinesesimp>
-				<Chinese>The false ad was removed!</Chinese>
+				<Chinesesimp>假信息被移除了</Chinesesimp>
+				<Chinese>假信息被移除了</Chinese>
 			</Key>
 			<Key ID="str_class_ad_trader">
 				<Original>See Classified Ads</Original>
 				<English>See Classified Ads</English>
 				<Portuguese>Ver Classificados</Portuguese>
 				<Russian>See Classified Ads</Russian>
-				<Chinesesimp>See Classified Ads</Chinesesimp>
-				<Chinese>See Classified Ads</Chinese>
+				<Chinesesimp>查看机密信息</Chinesesimp>
+				<Chinese>查看机密信息</Chinese>
 			</Key>
 			<Key ID="str_class_ads">
 				<Original>Classified Ads</Original>
 				<English>Classified Ads</English>
 				<Portuguese>Classificados</Portuguese>
 				<Russian>Classified Ads</Russian>
-				<Chinesesimp>Classified Ads</Chinesesimp>
-				<Chinese>Classified Ads</Chinese>
+				<Chinesesimp>机密信息</Chinesesimp>
+				<Chinese>机密信息</Chinese>
 			</Key>
 			<Key ID="str_cat_see_vehicles">
 				<Original>Vehicles Classified Ads</Original>
@@ -11159,8 +11159,8 @@
 				<English>Cancel a Vehicle Classified Ad</English>
 				<Portuguese>Cancelar um Classificado de Veículo</Portuguese>
 				<Russian>Cancel a Vehicle Classified Ad</Russian>
-				<Chinesesimp>Cancel a Vehicle Classified Ad</Chinesesimp>
-				<Chinese>Cancel a Vehicle Classified Ad</Chinese>
+				<Chinesesimp>取消一个机密信息载具</Chinesesimp>
+				<Chinese>取消一个机密信息载具</Chinese>
 			</Key>
 			<Key ID="str_class_ad_vehicle_done">
 				<Original>%1 bought your %4 vehicle classified ad\n"%2" for $%3!</Original>
@@ -11191,8 +11191,8 @@
 				<English>SELECT AN ACTION</English>
 				<Portuguese>SELECIONE UM AÇÃO</Portuguese>
 				<Russian>SELECT AN ACTION</Russian>
-				<Chinesesimp>SELECT AN ACTION</Chinesesimp>
-				<Chinese>SELECT AN ACTION</Chinese>
+				<Chinesesimp>选择操作</Chinesesimp>
+				<Chinese>选择操作</Chinese>
 			</Key>
 			<Key ID="str_cad_veh_select">
 				<Original>SELECT A VEHICLE CALSSIFIED ADD</Original>
@@ -11207,16 +11207,16 @@
 				<English>CONFIRME PURCHASE</English>
 				<Portuguese>CONFIRME A COMPRA</Portuguese>
 				<Russian>CONFIRME PURCHASE</Russian>
-				<Chinesesimp>CONFIRME PURCHASE</Chinesesimp>
-				<Chinese>CONFIRME PURCHASE</Chinese>
+				<Chinesesimp>确认购买</Chinesesimp>
+				<Chinese>确认购买</Chinese>
 			</Key>
 			<Key ID="str_cad_veh_confirm_remove">
 				<Original>CONFIRM CANCELLATION</Original>
 				<English>CONFIRM CANCELLATION</English>
 				<Portuguese>CONFIRME O CANCELAMENTO</Portuguese>
 				<Russian>CONFIRM CANCELLATION</Russian>
-				<Chinesesimp>CONFIRM CANCELLATION</Chinesesimp>
-				<Chinese>CONFIRM CANCELLATION</Chinese>
+				<Chinesesimp>确认取消</Chinesesimp>
+				<Chinese>确认取消</Chinese>
 			</Key>
 			<Key ID="str_class_ad_sell_items">
 				<Original>Create Items Classified Ad</Original>
