@@ -8423,8 +8423,8 @@
 				<English>Pylon #%1</English>
 				<Portuguese>Pilone #%1</Portuguese>
 				<Russian>Опора #%1</Russian>
-				<Chinesesimp>电缆塔 #%1</Chinesesimp>
-				<Chinese>电缆塔 #%1</Chinese>
+				<Chinesesimp>挂载点 #%1</Chinesesimp>
+				<Chinese>挂载点 #%1</Chinese>
 			</Key>
 			<Key ID="str_need_x_in_bank">
 				<Original>You need $%1 in bank!</Original>
@@ -8439,24 +8439,24 @@
 				<English>SELECT PYLON TO CONFIGURE</English>
 				<Portuguese>SELECIONE O PILONE PARA CONFIGURAR</Portuguese>
 				<Russian>ВЫБРАТЬ ОПОРУ ДЛЯ НАСТРОЙКИ</Russian>
-				<Chinesesimp>选择塔进行配置</Chinesesimp>
-				<Chinese>选择塔进行配置</Chinese>
+				<Chinesesimp>选择挂载点进行配置</Chinesesimp>
+				<Chinese>选择挂载点进行配置</Chinese>
 			</Key>
 			<Key ID="str_title_select_pylon_mag">
 				<Original>SELECT PYLON MAGAZINE: PRICE $%1K</Original>
 				<English>SELECT PYLON MAGAZINE: PRICE $%1K</English>
 				<Portuguese>SELECIONE O ARMAMENTO DO PILONE: PREÇO $%1K</Portuguese>
 				<Russian>ВЫБРАТЬМАГАЗИНДЛЯ ОПОРЫ: ЦЕНА $%1К</Russian>
-				<Chinesesimp>选择定向塔：价格 $%1K</Chinesesimp>
-				<Chinese>选择定向塔：价格 $%1K</Chinese>
+				<Chinesesimp>选择挂载：价格 $%1K</Chinesesimp>
+				<Chinese>选择挂载：价格 $%1K</Chinese>
 			</Key>
 			<Key ID="str_set_loadout">
 				<Original>SET LOADOUT</Original>
 				<English>SET LOADOUT</English>
 				<Portuguese>SETAR ARMAS</Portuguese>
 				<Russian>УСТАНОВИТЬ НАБОР</Russian>
-				<Chinesesimp>设置加载</Chinesesimp>
-				<Chinese>设置加载</Chinese>
+				<Chinesesimp>设置挂载</Chinesesimp>
+				<Chinese>设置挂载</Chinese>
 			</Key>
 			<Key ID="str_yes">
 				<Original>Yes</Original>
