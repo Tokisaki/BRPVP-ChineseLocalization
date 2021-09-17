@@ -11303,8 +11303,8 @@
 				<English>The items are on the ground, near you!</English>
 				<Portuguese>Os itens estão no chão, perto de você!</Portuguese>
 				<Russian>The items are on the ground, near you!</Russian>
-				<Chinesesimp>The items are on the ground, near you!</Chinesesimp>
-				<Chinese>The items are on the ground, near you!</Chinese>
+				<Chinesesimp>这些东西就在你附近的地上，仔细看看!</Chinesesimp>
+				<Chinese>这些东西就在你附近的地上，仔细看看!</Chinese>
 			</Key>
 			<Key ID="str_see_player_names">
 				<Original>See Players Names</Original>
