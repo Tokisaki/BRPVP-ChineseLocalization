@@ -10303,8 +10303,8 @@
 				<English>Insurance Trader (drone)</English>
 				<Portuguese>Vendedor de Seguros (drone)</Portuguese>
 				<Russian>Торговец Страховками (drone)</Russian>
-				<Chinesesimp>给载具投保(drone)</Chinesesimp>
-				<Chinese>给载具投保(drone)</Chinese>
+				<Chinesesimp>给载具投保(无人机)</Chinesesimp>
+				<Chinese>给载具投保(无人机)</Chinese>
 			</Key>
 			<Key ID="str_cant_raid_veh_nrd">
 				<Original>You can't raid this vehicle because\nit's in a base and you is not at the flag!</Original>
@@ -10511,8 +10511,8 @@
 				<English>Defense Turrets LVL2</English>
 				<Portuguese>Turretas de Defesa LVL2</Portuguese>
 				<Russian>Турели УРОВЕНЬ2</Russian>
-				<Chinesesimp>防御炮塔LVL2</Chinesesimp>
-				<Chinese>防御炮塔LVL2</Chinese>
+				<Chinesesimp>防御炮塔LV2</Chinesesimp>
+				<Chinese>防御炮塔LV2</Chinese>
 			</Key>
 			<Key ID="str_turret_upgrade_item">
 				<Original>Turret Upgrade</Original>
