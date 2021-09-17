@@ -8575,24 +8575,24 @@
 				<English>Personal Shield: $ %1K</English>
 				<Portuguese>Escudo Pessoal: $ %1K</Portuguese>
 				<Russian>Персональный Щит: $ %1К</Russian>
-				<Chinesesimp>个人盾牌： $ %1K</Chinesesimp>
-				<Chinese>个人盾牌： $ %1K</Chinese>
+				<Chinesesimp>个人掩体： $ %1K</Chinesesimp>
+				<Chinese>个人掩体： $ %1K</Chinese>
 			</Key>
 			<Key ID="str_personal_shield_act_cls">
 				<Original>Close Personal Shield</Original>
 				<English>Close Personal Shield</English>
 				<Portuguese>Fechar Escudo Pessoal</Portuguese>
 				<Russian>Убрать Персональный Щит</Russian>
-				<Chinesesimp>关闭个人盾牌</Chinesesimp>
-				<Chinese>关闭个人盾牌</Chinese>
+				<Chinesesimp>关闭个人掩体</Chinesesimp>
+				<Chinese>关闭个人掩体</Chinese>
 			</Key>
 			<Key ID="str_remove_personal_shield">
 				<Original>Remove Shield</Original>
 				<English>Remove Shield</English>
 				<Portuguese>Remover Escudo</Portuguese>
 				<Russian>Убрать Щит</Russian>
-				<Chinesesimp>移除盾牌</Chinesesimp>
-				<Chinese>移除盾牌</Chinese>
+				<Chinesesimp>移除掩体</Chinesesimp>
+				<Chinese>移除掩体</Chinese>
 			</Key>
 			<Key ID="str_personal_shield_wait">
 				<Original>Your shield was destroyed!\nYou need to wait %1 seconds!</Original>
@@ -11055,48 +11055,48 @@
 				<English>Description of the vehicle (max 500 chars).</English>
 				<Portuguese>Descrição do veículo (máximo de 500 chars).</Portuguese>
 				<Russian>Description of the vehicle (max 500 chars).</Russian>
-				<Chinesesimp>Description of the vehicle (max 500 chars).</Chinesesimp>
-				<Chinese>Description of the vehicle (max 500 chars).</Chinese>
+				<Chinesesimp>描述这个载具 (最多500字节).</Chinesesimp>
+				<Chinese>描述这个载具 (最多500字节).</Chinese>
 			</Key>
 			<Key ID="str_class_ad_veh_name">
 				<Original>Classified Ad Name (max 50 chars)</Original>
 				<English>Classified Ad Name (max 50 chars)</English>
 				<Portuguese>Nome do Classificado (máximo de 50 chars)</Portuguese>
 				<Russian>Classified Ad Name (max 50 chars)</Russian>
-				<Chinesesimp>Classified Ad Name (max 50 chars)</Chinesesimp>
-				<Chinese>Classified Ad Name (max 50 chars)</Chinese>
+				<Chinesesimp>机密信息名称 (最多50个字符)</Chinesesimp>
+				<Chinese>机密信息名称 (最多50个字符)</Chinese>
 			</Key>
 			<Key ID="str_class_ad_veh_price">
 				<Original>Price (only numbers 0-9)</Original>
 				<English>Price (only numbers 0-9)</English>
 				<Portuguese>Preço (apenas números  0-9)</Portuguese>
 				<Russian>Price (only numbers 0-9)</Russian>
-				<Chinesesimp>Price (only numbers 0-9)</Chinesesimp>
-				<Chinese>Price (only numbers 0-9)</Chinese>
+				<Chinesesimp>价格 (只能使用数字 0-9)</Chinesesimp>
+				<Chinese>价格 (只能使用数字 0-9)</Chinese>
 			</Key>
 			<Key ID="str_only_numbers">
 				<Original>Price must be only numbers!</Original>
 				<English>Price must be only numbers!</English>
 				<Portuguese>O preço precisa ser apenas números.</Portuguese>
 				<Russian>Price must be only numbers!</Russian>
-				<Chinesesimp>Price must be only numbers!</Chinesesimp>
-				<Chinese>Price must be only numbers!</Chinese>
+				<Chinesesimp>价格必须是数字!</Chinesesimp>
+				<Chinese>价格必须是数字!</Chinese>
 			</Key>
 			<Key ID="str_ad_need_name">
 				<Original>The classified ad needs a name!</Original>
 				<English>The classified ad needs a name!</English>
 				<Portuguese>O Classificado precisa de um nome!</Portuguese>
 				<Russian>The classified ad needs a name!</Russian>
-				<Chinesesimp>The classified ad needs a name!</Chinesesimp>
-				<Chinese>The classified ad needs a name!</Chinese>
+				<Chinesesimp>这个机密信息需要一个名字!</Chinesesimp>
+				<Chinese>这个机密信息需要一个名字!</Chinese>
 			</Key>
 			<Key ID="str_ad_anounced">
 				<Original>Your vehicle was announced in the Classified Ads!</Original>
 				<English>Your vehicle was announced in the Classified Ads!</English>
 				<Portuguese>Seu veículo esta anunciado nos Classificados!</Portuguese>
 				<Russian>Your vehicle was announced in the Classified Ads!</Russian>
-				<Chinesesimp>Your vehicle was announced in the Classified Ads!</Chinesesimp>
-				<Chinese>Your vehicle was announced in the Classified Ads!</Chinese>
+				<Chinesesimp>你的载具出现在机密信息中了!</Chinesesimp>
+				<Chinese>你的载具出现在机密信息中了!</Chinese>
 			</Key>
 			<Key ID="str_ad_vehicle_not_ok">
 				<Original>The vehicle is not ok!</Original>
@@ -11143,8 +11143,8 @@
 				<English>Vehicles Classified Ads</English>
 				<Portuguese>Classificados de Veículos</Portuguese>
 				<Russian>Vehicles Classified Ads</Russian>
-				<Chinesesimp>Vehicles Classified Ads</Chinesesimp>
-				<Chinese>Vehicles Classified Ads</Chinese>
+				<Chinesesimp>机密信息载具</Chinesesimp>
+				<Chinese>机密信息载具</Chinese>
 			</Key>
 			<Key ID="str_class_ad_false_msg">
 				<Original>%1 informs you to wait seated for the vehicle!</Original>
@@ -11223,64 +11223,64 @@
 				<English>Create Items Classified Ad</English>
 				<Portuguese>Criar Classificados para os Itens</Portuguese>
 				<Russian>Create Items Classified Ad</Russian>
-				<Chinesesimp>Create Items Classified Ad</Chinesesimp>
-				<Chinese>Create Items Classified Ad</Chinese>
+				<Chinesesimp>创建一个包含机密信息的物品</Chinesesimp>
+				<Chinese>创建一个包含机密信息的物品</Chinese>
 			</Key>
 			<Key ID="str_class_ad_item_descr">
 				<Original>Description of the items (max 500 chars).</Original>
 				<English>Description of the items (max 500 chars).</English>
 				<Portuguese>Descrição dos itens (máximo de 500 chars).</Portuguese>
 				<Russian>Description of the items (max 500 chars).</Russian>
-				<Chinesesimp>Description of the items (max 500 chars).</Chinesesimp>
-				<Chinese>Description of the items (max 500 chars).</Chinese>
+				<Chinesesimp>物品描述 (最多500字节).</Chinesesimp>
+				<Chinese>物品描述 (最多500字节).</Chinese>
 			</Key>
 			<Key ID="str_class_ad_item_name">
 				<Original>Classified Ad Name (max 50 chars)</Original>
 				<English>Classified Ad Name (max 50 chars)</English>
 				<Portuguese>Nome do Classificado (máximo de 50 chars)</Portuguese>
 				<Russian>Classified Ad Name (max 50 chars)</Russian>
-				<Chinesesimp>Classified Ad Name (max 50 chars)</Chinesesimp>
-				<Chinese>Classified Ad Name (max 50 chars)</Chinese>
+				<Chinesesimp>机密信息名称 (max 50 chars)</Chinesesimp>
+				<Chinese>机密信息名称 (max 50 chars)</Chinese>
 			</Key>
 			<Key ID="str_class_ad_item_price">
 				<Original>Price (only numbers 0-9)</Original>
 				<English>Price (only numbers 0-9)</English>
 				<Portuguese>Preço (apenas números  0-9)</Portuguese>
 				<Russian>Price (only numbers 0-9)</Russian>
-				<Chinesesimp>Price (only numbers 0-9)</Chinesesimp>
-				<Chinese>Price (only numbers 0-9)</Chinese>
+				<Chinesesimp>价格 (只能使用数字 0-9)</Chinesesimp>
+				<Chinese>价格 (只能使用数字 0-9)</Chinese>
 			</Key>
 			<Key ID="str_cat_see_items">
 				<Original>Items Classified Ads</Original>
 				<English>Items Classified Ads</English>
 				<Portuguese>Classificados de Itens</Portuguese>
 				<Russian>Items Classified Ads</Russian>
-				<Chinesesimp>Items Classified Ads</Chinesesimp>
-				<Chinese>Items Classified Ads</Chinese>
+				<Chinesesimp>机密信息物品</Chinesesimp>
+				<Chinese>机密信息物品</Chinese>
 			</Key>
 			<Key ID="str_cat_remove_items_sell">
 				<Original>Cancel a Item Classified Ad</Original>
 				<English>Cancel a Item Classified Ad</English>
 				<Portuguese>Cancelar um Classificado de Itens</Portuguese>
 				<Russian>Cancel a Item Classified Ad</Russian>
-				<Chinesesimp>Cancel a Item Classified Ad</Chinesesimp>
-				<Chinese>Cancel a Item Classified Ad</Chinese>
+				<Chinesesimp>取消一个机密信息物品</Chinesesimp>
+				<Chinese>取消一个机密信息物品</Chinese>
 			</Key>
 			<Key ID="str_class_ad_confirm_item">
 				<Original>CONFIRM YOU WANT TO SELL THOSE ITEMS?</Original>
 				<English>CONFIRM YOU WANT TO SELL THOSE ITEMS?</English>
 				<Portuguese>CONFIRMA A VENDA DESTES ITEMS?</Portuguese>
 				<Russian>CONFIRM YOU WANT TO SELL THOSE ITEMS?</Russian>
-				<Chinesesimp>CONFIRM YOU WANT TO SELL THOSE ITEMS?</Chinesesimp>
-				<Chinese>CONFIRM YOU WANT TO SELL THOSE ITEMS?</Chinese>
+				<Chinesesimp>你真的想卖掉这个物品?</Chinesesimp>
+				<Chinese>你真的想卖掉这个物品?</Chinese>
 			</Key>
 			<Key ID="str_cad_item_select">
 				<Original>SELECT A ITEM CALSSIFIED AD</Original>
 				<English>SELECT A ITEM CALSSIFIED AD</English>
 				<Portuguese>SELECIONE UM CLASSIFICADO DE ITENS</Portuguese>
 				<Russian>SELECT A ITEM CALSSIFIED AD</Russian>
-				<Chinesesimp>SELECT A ITEM CALSSIFIED AD</Chinesesimp>
-				<Chinese>SELECT A ITEM CALSSIFIED AD</Chinese>
+				<Chinesesimp>选择一个机密信息物品</Chinesesimp>
+				<Chinese>选择一个机密信息物品</Chinese>
 			</Key>
 			<Key ID="str_class_ad_item_done">
 				<Original>%1 bought your item classified ad\n"%2" for $%3!</Original>
@@ -11295,8 +11295,8 @@
 				<English>Your items was announced in the Classified Ads!</English>
 				<Portuguese>Seus itens foram anunciados nos Classificados!</Portuguese>
 				<Russian>Your items was announced in the Classified Ads!</Russian>
-				<Chinesesimp>Your items was announced in the Classified Ads!</Chinesesimp>
-				<Chinese>Your items was announced in the Classified Ads!</Chinese>
+				<Chinesesimp>你的物品被一些机密信息披露了!</Chinesesimp>
+				<Chinese>你的物品被一些机密信息披露了!</Chinese>
 			</Key>
 			<Key ID="str_cad_items_on_ground">
 				<Original>The items are on the ground, near you!</Original>
