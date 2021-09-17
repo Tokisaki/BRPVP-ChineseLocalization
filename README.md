@@ -1,4 +1,4 @@
 # BRPVP-ChineseLocalization
 Arma3 BRPVP模组简体中文本地化项目
 
-只需用这个文件替换掉pbo包根目录中同名文件即可完成汉化
+只需用这个xml文件替换掉pbo包根目录中同名文件即可完成汉化
