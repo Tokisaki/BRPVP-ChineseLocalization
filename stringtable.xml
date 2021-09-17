@@ -2279,8 +2279,8 @@
 				<English>(%1) Turn Invisible</English>
 				<Portuguese>(%1) Ficar Invisível</Portuguese>
 				<Russian>(%1) Стать невидимым</Russian>
-				<Chinesesimp>(%1) 管理隐身</Chinesesimp>
-				<Chinese>(%1) 管理隐身</Chinese>
+				<Chinesesimp>(%1) 完全隐身</Chinesesimp>
+				<Chinese>(%1) 完全隐身</Chinese>
 			</Key>
 			<Key ID="str_menu29_opt21">
 				<Original>Receive $500000</Original>
@@ -2871,24 +2871,24 @@
 				<English>SEE OBJECT CUSTOM FRIENDS: %1</English>
 				<Portuguese>VER AMIGO CUSTOM. DO OBJETO: %1</Portuguese>
 				<Russian>ПРОСМОТР ДРУЖЕСТВЕННЫХ ОБЪЕКТОВ. ОБЪЕКТ: %1</Russian>
-				<Chinesesimp>查看对象自定义好友: %1</Chinesesimp>
-				<Chinese>查看对象自定义好友: %1</Chinese>
+				<Chinesesimp>查看自定义好友: %1</Chinesesimp>
+				<Chinese>查看自定义好友: %1</Chinese>
 			</Key>
 			<Key ID="str_menu60_tittle">
 				<Original>ADD OBJECT CUSTOM FRIEND: %1</Original>
 				<English>ADD OBJECT CUSTOM FRIEND: %1</English>
 				<Portuguese>ADICIONA AMIGO CUSTOM. NO OBJETO: %1</Portuguese>
 				<Russian>ДОБАВЛЕНИЕ ДРУЖЕСТВЕННЫХ ОБЪЕКТОВ. ОБЪЕКТ: %1</Russian>
-				<Chinesesimp>添加对象自定义好友: %1</Chinesesimp>
-				<Chinese>添加对象自定义好友: %1</Chinese>
+				<Chinesesimp>添加自定义好友: %1</Chinesesimp>
+				<Chinese>添加自定义好友: %1</Chinese>
 			</Key>
 			<Key ID="str_menu61_tittle">
 				<Original>REMOVE OBJECT CUSTOM FRIEND: %1</Original>
 				<English>REMOVE OBJECT CUSTOM FRIEND: %1</English>
 				<Portuguese>REMOVER AMIGO CUSTOM. DO OBJETO: %1</Portuguese>
 				<Russian>УДАЛЕНИЕ ДРУЖЕСТВЕННЫХ ОБЪЕКТОВ. ОБЪЕКТ: %1</Russian>
-				<Chinesesimp>删除对象自定义好友: %1</Chinesesimp>
-				<Chinese>删除对象自定义好友: %1</Chinese>
+				<Chinesesimp>删除自定义好友: %1</Chinesesimp>
+				<Chinese>删除自定义好友: %1</Chinese>
 			</Key>
 			<Key ID="str_menu62_tittle">
 				<Original>REPACK MODE</Original>
@@ -3855,8 +3855,8 @@
 				<English>Plane crash started.\nCan take some time before the plane appears on the map.</English>
 				<Portuguese>Missão de queda de avião começou.\nPode levar algum tempo para o avião aparecer no mapa.</Portuguese>
 				<Russian>Разбившийся самолёт стартанул.\nМаркер появится через некоторое время.</Russian>
-				<Chinesesimp>飞机坠毁开始了.\n在飞机出现在地图上之前要花些时间.</Chinesesimp>
-				<Chinese>飞机坠毁开始了.\n在飞机出现在地图上之前要花些时间.</Chinese>
+				<Chinesesimp>好像有飞机坠毁了.\n我们需要花一点时间搞清楚它在哪.</Chinesesimp>
+				<Chinese>好像有飞机坠毁了.\n我们需要花一点时间搞清楚它在哪.</Chinese>
 			</Key>
 			<Key ID="str_planes">
 				<Original>Planes</Original>
@@ -4655,8 +4655,8 @@
 				<English>You made %1 the new squad leader.</English>
 				<Portuguese>Você passou o cargo de lider do pelotão para %1.</Portuguese>
 				<Russian>Ты сделал %1 новым лидером группы.</Russian>
-				<Chinesesimp>你做的 %1 新队长.</Chinesesimp>
-				<Chinese>你做的 %1 新队长.</Chinese>
+				<Chinesesimp>你提拔 %1 为新队长.</Chinesesimp>
+				<Chinese>你提拔 %1 为新队长.</Chinese>
 			</Key>
 			<Key ID="str_squad_remove">
 				<Original>Remove from Squad</Original>
@@ -5239,8 +5239,8 @@
 				<English>Spotted $$ - Error %1m</English>
 				<Portuguese>Spotted $$ - Erro %1m</Portuguese>
 				<Russian>Запах $$ - Погрешность %1m</Russian>
-				<Chinesesimp>斑点$$ - 误差%1米</Chinesesimp>
-				<Chinese>斑点$$ - 误差%1米</Chinese>
+				<Chinesesimp>发现大笔金钱$$ - 误差%1米</Chinesesimp>
+				<Chinese>发现大笔金钱$$ - 误差%1米</Chinese>
 			</Key>
 			<Key ID="str_fort_of_light">
 				<Original>Fort of Light</Original>
@@ -5463,8 +5463,8 @@
 				<English>Center the binocular sight in a player and press alt + 1 to hack.</English>
 				<Portuguese>Centralize a mira do binóculos em um player e pressione alt + 1 para hackear.</Portuguese>
 				<Russian>Прицелься биноклем в игрока и нажми [ALT] + 1 для взлома.</Russian>
-				<Chinesesimp>使用双通望远镜瞄准一名玩家，按ALT+1进行黑客入侵银行！</Chinesesimp>
-				<Chinese>使用双通望远镜瞄准一名玩家，按ALT+1进行黑客入侵银行！</Chinese>
+				<Chinesesimp>使用双筒望远镜瞄准一名玩家，按ALT+1进行黑客入侵银行！</Chinesesimp>
+				<Chinese>使用双筒望远镜瞄准一名玩家，按ALT+1进行黑客入侵银行！</Chinese>
 			</Key>
 			<Key ID="str_view_distance">
 				<Original>View Distance</Original>
@@ -5479,8 +5479,8 @@
 				<English>SET VEHICLE COVER</English>
 				<Portuguese>COLOCA COBERTURA NO VEÍCULO</Portuguese>
 				<Russian>УСТАНОВИТЬ ОБВЕС</Russian>
-				<Chinesesimp>设置载具遮罩</Chinesesimp>
-				<Chinese>设置载具遮罩</Chinese>
+				<Chinesesimp>设置载具掩护</Chinesesimp>
+				<Chinese>设置载具掩护</Chinese>
 			</Key>
 			<Key ID="str_put_money_in_box">
 				<Original>PUT MONEY IN BOX</Original>
@@ -5495,8 +5495,8 @@
 				<English>No cover</English>
 				<Portuguese>Sem cobertura</Portuguese>
 				<Russian>Без обвеса</Russian>
-				<Chinesesimp>没有遮罩</Chinesesimp>
-				<Chinese>没有遮罩</Chinese>
+				<Chinesesimp>没有掩护</Chinesesimp>
+				<Chinese>没有掩护</Chinese>
 			</Key>
 			<Key ID="str_cover_camonet">
 				<Original>Use camonet</Original>
@@ -5607,8 +5607,8 @@
 				<English>UNBAN A PLAYER</English>
 				<Portuguese>DESBANIR UM JOGADOR</Portuguese>
 				<Russian>РАЗБАНИТЬ ИГРОКА</Russian>
-				<Chinesesimp>解办玩家</Chinesesimp>
-				<Chinese>解办玩家</Chinese>
+				<Chinesesimp>解除玩家封禁</Chinesesimp>
+				<Chinese>解除玩家封禁</Chinese>
 			</Key>
 			<Key ID="str_player_banned">
 				<Original>Player %1 is banned.</Original>
@@ -6767,8 +6767,8 @@
 				<English>RECOVER A VEHICLE</English>
 				<Portuguese>RECUPERAR UM VEÍCULO</Portuguese>
 				<Russian>ВОССТАНОВИТЬ ТЕХНИКУ</Russian>
-				<Chinesesimp>理赔保险车辆</Chinesesimp>
-				<Chinese>理赔保险车辆</Chinese>
+				<Chinesesimp>载具保险理赔</Chinesesimp>
+				<Chinese>载具保险理赔</Chinese>
 			</Key>
 			<Key ID="str_insurance_conclude_ok">
 				<Original>Your vehicle was insured!</Original>
@@ -8167,8 +8167,8 @@
 				<English>WAVE %1 START!</English>
 				<Portuguese>INICIO DA WAVE %1!</Portuguese>
 				<Russian>ВОЛНА %1 НАЧАЛАСЬ!</Russian>
-				<Chinesesimp>挥动 %1 开始！</Chinesesimp>
-				<Chinese>挥动 %1 开始！</Chinese>
+				<Chinesesimp>波数 %1 开始！</Chinesesimp>
+				<Chinese>波数 %1 开始！</Chinese>
 			</Key>
 			<Key ID="str_gate_limit_cant">
 				<Original>You reached the limit of %1 gates on the flag!</Original>
@@ -8176,7 +8176,7 @@
 				<Portuguese>Você atingiu o limite de %1 portões na bandeira!</Portuguese>
 				<Russian>Достигнут предел из  %1 ворот для флага!</Russian>
 				<Chinesesimp>你达到了领地中 %1 个门的限制！</Chinesesimp>
-				<Chinese>你达到了领地中中 %1 个门的限制！</Chinese>
+				<Chinese>你达到了领地中 %1 个门的限制！</Chinese>
 			</Key>
 			<Key ID="str_brpvp_hulk_pills_displayname">
 				<Original>Hulkus Pills</Original>
@@ -8359,8 +8359,8 @@
 				<English>You must farm resources and craft this item! No way to buy it!</English>
 				<Portuguese>Você precisa farmar recursos e craftar este item! Não ha como compra-lo!</Portuguese>
 				<Russian>Никак! Не купишь, можно только скрафтить!</Russian>
-				<Chinesesimp>您必须养殖资源和工艺这一项目！没办法买！</Chinesesimp>
-				<Chinese>您必须养殖资源和工艺这一项目！没办法买！</Chinese>
+				<Chinesesimp>您必须采集或者制作这一资源！我们不卖这个！</Chinesesimp>
+				<Chinese>您必须采集或者制作这一资源！我们不卖这个！</Chinese>
 			</Key>
 			<Key ID="str_brpvp_drone_finder_displayname">
 				<Original>Drone Operator Finder</Original>
@@ -8471,8 +8471,8 @@
 				<English>My Gear to a Player</English>
 				<Portuguese>Meu Gear para um Player</Portuguese>
 				<Russian>Моё Снаряжение Игроку</Russian>
-				<Chinesesimp>我对玩家的装备</Chinesesimp>
-				<Chinese>我对玩家的装备</Chinese>
+				<Chinesesimp>将我的装备赋予玩家</Chinesesimp>
+				<Chinese>将我的装备赋予玩家</Chinese>
 			</Key>
 			<Key ID="str_personal_vault">
 				<Original>Personal Vault: $%1K</Original>
@@ -8695,16 +8695,16 @@
 				<English>(X) Kill Map Density</English>
 				<Portuguese>(X) Mapa de Densidade de Kills</Portuguese>
 				<Russian>(X) Карта Смертности</Russian>
-				<Chinesesimp>(X) 致密杀人地图</Chinesesimp>
-				<Chinese>(X) 致密杀人地图</Chinese>
+				<Chinesesimp>(X) 显示杀人地图</Chinesesimp>
+				<Chinese>(X) 显示杀人地图</Chinese>
 			</Key>
 			<Key ID="str_menu30_killmap_off">
 				<Original>(   ) Kill Map Density</Original>
 				<English>(   ) Kill Map Density</English>
 				<Portuguese>(   ) Mapa Densidade de Kills</Portuguese>
 				<Russian>(   ) Карта Смертности</Russian>
-				<Chinesesimp>(   ) 致密杀人地图</Chinesesimp>
-				<Chinese>(   ) 致密杀人地图</Chinese>
+				<Chinesesimp>(   ) 显示杀人地图</Chinesesimp>
+				<Chinese>(   ) 显示杀人地图</Chinese>
 			</Key>
 			<Key ID="str_menu30_kill_list">
 				<Original>Kill List</Original>
@@ -8719,8 +8719,8 @@
 				<English>PLAYERS KILLED BY %1</English>
 				<Portuguese>PLAYERS MORTOS POR %1</Portuguese>
 				<Russian>ИГРОКОВ УБИТО %1</Russian>
-				<Chinesesimp>玩家死亡 BY %1</Chinesesimp>
-				<Chinese>玩家死亡 BY %1</Chinese>
+				<Chinesesimp>玩家被 %1 杀死</Chinesesimp>
+				<Chinese>玩家被 %1 杀死</Chinese>
 			</Key>
 			<Key ID="str_title_killed_players_case">
 				<Original>%1 DEATHS TO %2</Original>
@@ -8767,8 +8767,8 @@
 				<English>Transfer items to Base Box</English>
 				<Portuguese>Transferir itens para a Caixa de Base</Portuguese>
 				<Russian>Переместить предметы в ящик на Базе</Russian>
-				<Chinesesimp>将项目转移到基本箱</Chinesesimp>
-				<Chinese>将项目转移到基本箱</Chinese>
+				<Chinesesimp>将物品转移到基地箱</Chinesesimp>
+				<Chinese>将物品转移到基地箱</Chinese>
 			</Key>
 			<Key ID="str_cant_gm_this_house">
 				<Original>You can't set this to God Mode!</Original>
@@ -8847,8 +8847,8 @@
 				<English>It's not raid time, so you can't use this item!</English>
 				<Portuguese>Agora não é horário de raid, então você não pode usar este item!</Portuguese>
 				<Russian>Никак! Время разбоя ещё не пришло, нельзя использовать данный предмет!</Russian>
-				<Chinesesimp> 现在不是抄家时间，所以你不能使用这个项目！</Chinesesimp>
-				<Chinese> 现在不是抄家时间，所以你不能使用这个项目！</Chinese>
+				<Chinesesimp> 现在不是抄家时间，所以你不能使用这个物品！</Chinesesimp>
+				<Chinese> 现在不是抄家时间，所以你不能使用这个物品！</Chinese>
 			</Key>
 			<Key ID="str_cant_build_raid_day">
 				<Original>You can't build on raid time!</Original>
@@ -8991,16 +8991,16 @@
 				<English>This respawn is in irregular state! Fix it before use!</English>
 				<Portuguese>Este respawn esta em estado irregular! Concerte antes de usar!</Portuguese>
 				<Russian>Эта точка возрождения в неправильном положении! Исправьте перед использованием!</Russian>
-				<Chinesesimp>此重生处于不规则状态！ 使用前修复！</Chinesesimp>
-				<Chinese>此重生处于不规则状态！ 使用前修复！</Chinese>
+				<Chinesesimp>此重生处于不正常状态！ 使用前修复！</Chinesesimp>
+				<Chinese>此重生处于不正常状态！ 使用前修复！</Chinese>
 			</Key>
 			<Key ID="str_good_cant_enter_bandit_car">
 				<Original>You can't enter a vehicle with bandits!</Original>
 				<English>You can't enter a vehicle with bandits!</English>
 				<Portuguese>Você não pode entrar em um veículo com bandidos!</Portuguese>
 				<Russian>Никак! Нельзя сесть в технику, набитую бандитами!</Russian>
-				<Chinesesimp>你不能和强盗一起进车！</Chinesesimp>
-				<Chinese>你不能和强盗一起进车！</Chinese>
+				<Chinesesimp>你不能和强盗一起乘车！</Chinesesimp>
+				<Chinese>你不能和强盗一起乘车！</Chinese>
 			</Key>
 			<Key ID="str_cant_hack_safe_and_user_near">
 				<Original>You can't, vehicle user is near!</Original>
@@ -9255,8 +9255,8 @@
 				<English>Patrimony Rank</English>
 				<Portuguese>Rank de Patrimônio</Portuguese>
 				<Russian>Уровень Наследства</Russian>
-				<Chinesesimp>财产等级</Chinesesimp>
-				<Chinese>财产等级</Chinese>
+				<Chinesesimp>资产排行榜</Chinesesimp>
+				<Chinese>资产排行榜</Chinese>
 			</Key>
 			<Key ID="str_patrimony_total">
 				<Original>Total Patrimony</Original>
@@ -9303,8 +9303,8 @@
 				<English>SEE PATRIMONY RANK</English>
 				<Portuguese>VER RANK DE PATRIMÔNIO</Portuguese>
 				<Russian>ПРОСМОТР УРОВНЯ НАСЛЕДСТВА</Russian>
-				<Chinesesimp>查看财产等级</Chinesesimp>
-				<Chinese>查看财产等级</Chinese>
+				<Chinesesimp>查看财产排行</Chinesesimp>
+				<Chinese>查看财产排行</Chinese>
 			</Key>
 			<Key ID="str_item_climb">
 				<Original>Climb Ability</Original>
@@ -9415,8 +9415,8 @@
 				<English>You can't have this combination of flags!\nTry another flag size!</English>
 				<Portuguese>Esta combinação de bandeiras não é permitida!\nTente outro tamanho de bandeira!</Portuguese>
 				<Russian>Нельзя использовать такую комбинацию!\nИсползуй другой размер флага!</Russian>
-				<Chinesesimp>你不能有这种旗帜的组合！\n尝试另一个旗帜大小！</Chinesesimp>
-				<Chinese>你不能有这种旗帜的组合！\n尝试另一个旗帜大小！</Chinese>
+				<Chinesesimp>你不能有这种领地旗的组合！\n尝试另一个领地旗大小！</Chinesesimp>
+				<Chinese>你不能有这种领地旗的组合！\n尝试另一个领地旗大小！</Chinese>
 			</Key>
 			<Key ID="str_cant_base_respawn">
                 <Original>You need to wait more %1 seconds to respawn here!</Original>
@@ -9495,8 +9495,8 @@
 				<English>Admin List Off...</English>
 				<Portuguese>Lista Admins Desligada...</Portuguese>
 				<Russian>Отключить Список Администраторов...</Russian>
-				<Chinesesimp>管理清单</Chinesesimp>
-				<Chinese>管理清单</Chinese>
+				<Chinesesimp>在线管理员名单功能关闭</Chinesesimp>
+				<Chinese>在线管理员名单功能关闭</Chinese>
 			</Key>
 			<Key ID="str_insurance_vehicle">
 				<Original>Vehicles you can insure</Original>
@@ -9511,8 +9511,8 @@
 				<English>Vehicles you can't insure</English>
 				<Portuguese>Veículos que não pode segurar</Portuguese>
 				<Russian>Нельзя застраховать</Russian>
-				<Chinesesimp>你不能保险的车辆</Chinesesimp>
-				<Chinese>你不能保险的车辆</Chinese>
+				<Chinesesimp>你不能投保的车辆</Chinesesimp>
+				<Chinese>你不能投保的车辆</Chinese>
 			</Key>
 			<Key ID="str_cons_cant_recent_raid">
 				<Original>You suffered a Raid Action %1 minutes ago. You can't build for more %2 minutes!</Original>
@@ -9743,16 +9743,16 @@
 				<English>SET VAULTS OF A PLAYER</English>
 				<Portuguese>SETAR COFRES DE UM PLAYER</Portuguese>
 				<Russian>УСТАНОВКА СЕЙФОВ ИГРОКА</Russian>
-				<Chinesesimp>SET VAULTS OF A PLAYER</Chinesesimp>
-				<Chinese>SET VAULTS OF A PLAYER</Chinese>
+				<Chinesesimp>设置某个玩家的保险箱</Chinesesimp>
+				<Chinese>设置某个玩家的保险箱</Chinese>
 			</Key>
 			<Key ID="str_title_vaults_choose_n">
 				<Original>NUMBER OF VAULTS</Original>
 				<English>NUMBER OF VAULTS</English>
 				<Portuguese>NÚMERO DE COFRES</Portuguese>
 				<Russian>КОЛИЧЕСТВО СЕЙФОВ</Russian>
-				<Chinesesimp>NUMBER OF VAULTS</Chinesesimp>
-				<Chinese>NUMBER OF VAULTS</Chinese>
+				<Chinesesimp>保险箱数量</Chinesesimp>
+				<Chinese>保险箱数量</Chinese>
 			</Key>
 			<Key ID="str_menu29_set_player_vaults">
 				<Original>Set Player Vault Number</Original>
@@ -9767,376 +9767,376 @@
 				<English>Virtual Garage Multiplier</English>
 				<Portuguese>Multiplicador da Garagem Virtual</Portuguese>
 				<Russian>Множитель Числа Парковок</Russian>
-				<Chinesesimp>Virtual Garage Multiplier</Chinesesimp>
-				<Chinese>Virtual Garage Multiplier</Chinese>
+				<Chinesesimp>虚拟车库车位倍增</Chinesesimp>
+				<Chinese>虚拟车库车位倍增</Chinese>
 			</Key>
 			<Key ID="str_title_vg_mult_set">
 				<Original>SET VIRTUAL GARAGE MULTIPLIER</Original>
 				<English>SET VIRTUAL GARAGE MULTIPLIER</English>
 				<Portuguese>SETAR MULTIPLICADOR DA GARAGEM VIRTUAL</Portuguese>
 				<Russian>УСТАНОВИТЬ МНОЖИТЕЛЬ ЧИСЛА ПАРКОВОК</Russian>
-				<Chinesesimp>SET VIRTUAL GARAGE MULTIPLIER</Chinesesimp>
-				<Chinese>SET VIRTUAL GARAGE MULTIPLIER</Chinese>
+				<Chinesesimp>设置虚拟车库车位倍增</Chinesesimp>
+				<Chinese>设置虚拟车库车位倍增</Chinese>
 			</Key>
 			<Key ID="str_title_vg_mult_mult">
 				<Original>SELECT MULTIPLIER</Original>
 				<English>SELECT MULTIPLIER</English>
 				<Portuguese>SELECIONE O MULTIPLICADOR</Portuguese>
 				<Russian>ВЫБРАТЬ МНОЖИТЕЛЬ</Russian>
-				<Chinesesimp>SELECT MULTIPLIER</Chinesesimp>
-				<Chinese>SELECT MULTIPLIER</Chinese>
+				<Chinesesimp>选择倍数</Chinesesimp>
+				<Chinese>选择倍数</Chinese>
 			</Key>
 			<Key ID="str_exp_zumbi">
 				<Original>Killed Zombies</Original>
 				<English>Killed Zombies</English>
 				<Portuguese>Zumbis Mortos</Portuguese>
 				<Russian>Убитые Зомбаки</Russian>
-				<Chinesesimp>Killed Zombies</Chinesesimp>
-				<Chinese>Killed Zombies</Chinese>
+				<Chinesesimp>杀死丧尸</Chinesesimp>
+				<Chinese>杀死丧尸</Chinese>
 			</Key>
 			<Key ID="str_exp_comprou">
 				<Original>Purchased Value</Original>
 				<English>Purchased Value</English>
 				<Portuguese>Valor Comprado</Portuguese>
 				<Russian>Покупки</Russian>
-				<Chinesesimp>Purchased Value</Chinesesimp>
-				<Chinese>Purchased Value</Chinese>
+				<Chinesesimp>购买财产</Chinesesimp>
+				<Chinese>购买财产</Chinese>
 			</Key>
 			<Key ID="str_exp_vendeu">
 				<Original>Sold Value</Original>
 				<English>Sold Value</English>
 				<Portuguese>Valor Vendido</Portuguese>
 				<Russian>Продажи</Russian>
-				<Chinesesimp>Sold Value</Chinesesimp>
-				<Chinese>Sold Value</Chinese>
+				<Chinesesimp>出售财产</Chinesesimp>
+				<Chinese>出售财产</Chinese>
 			</Key>
 			<Key ID="str_mounted_kills">
 				<Original>Mounted Kills</Original>
 				<English>Mounted Kills</English>
 				<Portuguese>Kills com Veículo</Portuguese>
 				<Russian>Убийства из Техники</Russian>
-				<Chinesesimp>Mounted Kills</Chinesesimp>
-				<Chinese>Mounted Kills</Chinese>
+				<Chinesesimp>固定武器击杀</Chinesesimp>
+				<Chinese>固定武器击杀</Chinese>
 			</Key>
 			<Key ID="str_you_played_x_days">
 				<Original>You played %1 days!</Original>
 				<English>You played %1 days!</English>
 				<Portuguese>Você jogou %1 dias!</Portuguese>
 				<Russian>Отыграно %1 дней!</Russian>
-				<Chinesesimp>You played %1 days!</Chinesesimp>
-				<Chinese>You played %1 days!</Chinese>
+				<Chinesesimp>你已经玩了 %1 天!</Chinesesimp>
+				<Chinese>你已经玩了 %1 天!</Chinese>
 			</Key>
 			<Key ID="str_played_days">
 				<Original>Days you Logged</Original>
 				<English>Days you Logged</English>
 				<Portuguese>Dias que você Logou</Portuguese>
 				<Russian>Дни, в которые вы вошли</Russian>
-				<Chinesesimp>Days you Logged</Chinesesimp>
-				<Chinese>Days you Logged</Chinese>
+				<Chinesesimp>你被记录的天数</Chinesesimp>
+				<Chinese>你被记录的天数</Chinese>
 			</Key>
 			<Key ID="str_exp_headshots">
 				<Original>Headshots</Original>
 				<English>Headshots</English>
 				<Portuguese>Tiros na Cabeça</Portuguese>
 				<Russian>Выстрелов в Жбан</Russian>
-				<Chinesesimp>Headshots</Chinesesimp>
-				<Chinese>Headshots</Chinese>
+				<Chinesesimp>爆头</Chinesesimp>
+				<Chinese>爆头</Chinese>
 			</Key>
 			<Key ID="str_super_rockets">
 				<Original>Super Rockets</Original>
 				<English>Super Rockets</English>
 				<Portuguese>Super Foguetes</Portuguese>
 				<Russian>Супер Ракеты</Russian>
-				<Chinesesimp>Super Rockets</Chinesesimp>
-				<Chinese>Super Rockets</Chinese>
+				<Chinesesimp>超级火箭弹</Chinesesimp>
+				<Chinese>超级火箭弹</Chinese>
 			</Key>
 			<Key ID="str_menu_see_xp">
 				<Original>See my XP and Habilities</Original>
 				<English>See my XP and Habilities</English>
 				<Portuguese>Ver meu XP e Habilidades</Portuguese>
 				<Russian>Просмотреть Опыт и Способности</Russian>
-				<Chinesesimp>See my XP and Habilities</Chinesesimp>
-				<Chinese>See my XP and Habilities</Chinese>
+				<Chinesesimp>查看我的经验和技能</Chinesesimp>
+				<Chinese>查看我的经验和技能</Chinese>
 			</Key>
 			<Key ID="str_title_xp_see">
 				<Original>MY XP</Original>
 				<English>MY XP</English>
 				<Portuguese>MEU XP</Portuguese>
 				<Russian>ОПЫТ</Russian>
-				<Chinesesimp>MY XP</Chinesesimp>
-				<Chinese>MY XP</Chinese>
+				<Chinesesimp>我的经验点</Chinesesimp>
+				<Chinese>我的经验点</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_many_vaults">
 				<Original>Multiple Vaults X%1</Original>
 				<English>Multiple Vaults X%1</English>
 				<Portuguese>Multiplos Cofres X%1</Portuguese>
 				<Russian>Множитель Сейфов X%1</Russian>
-				<Chinesesimp>Multiple Vaults X%1</Chinesesimp>
-				<Chinese>Multiple Vaults X%1</Chinese>
+				<Chinesesimp>保险库 X%1</Chinesesimp>
+				<Chinese>保险库 X%1</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_trader_arifle">
 				<Original>Assault Rifles on Traders</Original>
 				<English>Assault Rifles on Traders</English>
 				<Portuguese>Rifles de Assalto nos Vendedores</Portuguese>
 				<Russian>Штурмовые Винтовки у Торговцев</Russian>
-				<Chinesesimp>Assault Rifles on Traders</Chinesesimp>
-				<Chinese>Assault Rifles on Traders</Chinese>
+				<Chinesesimp>可以从商人购买突击步枪</Chinesesimp>
+				<Chinese>可以从商人购买突击步枪</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_trader_mg">
 				<Original>Machine Guns on Traders</Original>
 				<English>Machine Guns on Traders</English>
 				<Portuguese>Machine Guns nos Vendedores</Portuguese>
 				<Russian>Пулемёты у Торговцев</Russian>
-				<Chinesesimp>Machine Guns on Traders</Chinesesimp>
-				<Chinese>Machine Guns on Traders</Chinese>
+				<Chinesesimp>可以从商人购买轻机枪</Chinesesimp>
+				<Chinese>可以从商人购买轻机枪</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_trader_srifle">
 				<Original>Sniper Rifles on Traders</Original>
 				<English>Sniper Rifles on Traders</English>
 				<Portuguese>Snipers nos Vendedores</Portuguese>
 				<Russian>Снайперские Винтовки у Торговцев</Russian>
-				<Chinesesimp>Sniper Rifles on Traders</Chinesesimp>
-				<Chinese>Sniper Rifles on Traders</Chinese>
+				<Chinesesimp>可以从商人购买狙击步枪</Chinesesimp>
+				<Chinese>可以从商人购买狙击步枪</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_trader_launcher">
 				<Original>Launcher on Traders</Original>
 				<English>Launcher on Traders</English>
 				<Portuguese>Lançadores nos Vendedores</Portuguese>
 				<Russian>ПЗРК, ПТУР, РПГ у Торговцев</Russian>
-				<Chinesesimp>Launcher on Traders</Chinesesimp>
-				<Chinese>Launcher on Traders</Chinese>
+				<Chinesesimp>可以从商人购买发射器</Chinesesimp>
+				<Chinese>可以从商人购买发射器</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_trader_rocket">
 				<Original>Super Rockets on Traders</Original>
 				<English>Super Rockets on Traders</English>
 				<Portuguese>Super Foguetes nos Vendedores</Portuguese>
 				<Russian>Супре Ракеты у Торговцев</Russian>
-				<Chinesesimp>Super Rockets on Traders</Chinesesimp>
-				<Chinese>Super Rockets on Traders</Chinese>
+				<Chinesesimp>可以从商人购买超级火箭弹</Chinesesimp>
+				<Chinese>可以从商人购买超级火箭弹</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_jump">
 				<Original>Normal Jump</Original>
 				<English>Normal Jump</English>
 				<Portuguese>Pulo Normal</Portuguese>
 				<Russian>Обычный Прыжок</Russian>
-				<Chinesesimp>Normal Jump</Chinesesimp>
-				<Chinese>Normal Jump</Chinese>
+				<Chinesesimp>一般跳跃</Chinesesimp>
+				<Chinese>一般跳跃</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_small_climb">
 				<Original>Small Walls Climb</Original>
 				<English>Small Walls Climb</English>
 				<Portuguese>Escalada de Pequenas Paredes</Portuguese>
 				<Russian>Преодоление Маленьких Стен</Russian>
-				<Chinesesimp>Small Walls Climb</Chinesesimp>
-				<Chinese>Small Walls Climb</Chinese>
+				<Chinesesimp>爬小墙</Chinesesimp>
+				<Chinese>爬小墙</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_climb">
 				<Original>Houses Climb</Original>
 				<English>Houses Climb</English>
 				<Portuguese>Escalada de Casas</Portuguese>
 				<Russian>Забраться на Дом</Russian>
-				<Chinesesimp>Houses Climb</Chinesesimp>
-				<Chinese>Houses Climb</Chinese>
+				<Chinesesimp>爬房子</Chinesesimp>
+				<Chinese>爬房子</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_see_ai">
 				<Original>See all AI on map</Original>
 				<English>See all AI on map</English>
 				<Portuguese>Ver todos os Bots no mapa</Portuguese>
 				<Russian>Видеть Ботов на Карте</Russian>
-				<Chinesesimp>See all AI on map</Chinesesimp>
-				<Chinese>See all AI on map</Chinese>
+				<Chinesesimp>在地图上显示所有AI</Chinesesimp>
+				<Chinese>在地图上显示所有AI</Chinese>
 			</Key>
 			<Key ID="str_xp_menu_points">
 				<Original>Experience Details</Original>
 				<English>Experience Details</English>
 				<Portuguese>Experiência em Detalhes</Portuguese>
 				<Russian>Детализация Опыта</Russian>
-				<Chinesesimp>Experience Details</Chinesesimp>
-				<Chinese>Experience Details</Chinese>
+				<Chinesesimp>经验详情</Chinesesimp>
+				<Chinese>经验详情</Chinese>
 			</Key>
 			<Key ID="str_xp_menu_habilities">
 				<Original>Habilities</Original>
 				<English>Habilities</English>
 				<Portuguese>Habilidades</Portuguese>
 				<Russian>Способности</Russian>
-				<Chinesesimp>Habilities</Chinesesimp>
-				<Chinese>Habilities</Chinese>
+				<Chinesesimp>技能</Chinesesimp>
+				<Chinese>技能</Chinese>
 			</Key>
 			<Key ID="str_xp_total">
 				<Original>TOTAL XP:</Original>
 				<English>TOTAL XP:</English>
 				<Portuguese>XP TOTAL:</Portuguese>
 				<Russian>ОПЫТ ВСЕГО:</Russian>
-				<Chinesesimp>TOTAL XP:</Chinesesimp>
-				<Chinese>TOTAL XP:</Chinese>
+				<Chinesesimp>总经验值:</Chinesesimp>
+				<Chinese>总经验值:</Chinese>
 			</Key>
 			<Key ID="str_xp_esc_to_leave">
 				<Original>[ESC] TO LEAVE</Original>
 				<English>[ESC] TO LEAVE</English>
 				<Portuguese>[ESC] PARA SAIR</Portuguese>
 				<Russian>Выйти [Esc]</Russian>
-				<Chinesesimp>[ESC] TO LEAVE</Chinesesimp>
-				<Chinese>[ESC] TO LEAVE</Chinese>
+				<Chinesesimp>按 [ESC] 离开</Chinesesimp>
+				<Chinese>按 [ESC] 离开</Chinese>
 			</Key>
 			<Key ID="str_radio_man">
 				<Original>Radioactive Exposition</Original>
 				<English>Radioactive Exposition</English>
 				<Portuguese>Exposição à Radiação</Portuguese>
 				<Russian>Воздействие Радиации</Russian>
-				<Chinesesimp>Radioactive Exposition</Chinesesimp>
-				<Chinese>Radioactive Exposition</Chinese>
+				<Chinesesimp>暴露在辐射中</Chinesesimp>
+				<Chinese>暴露在辐射中</Chinese>
 			</Key>
 			<Key ID="str_xp_menu_see_other">
 				<Original>Other player Experience</Original>
 				<English>Other player Experience</English>
 				<Portuguese>Experiência de outro player</Portuguese>
 				<Russian>Опыт Других Игроков</Russian>
-				<Chinesesimp>Other player Experience</Chinesesimp>
-				<Chinese>Other player Experience</Chinese>
+				<Chinesesimp>其他玩家的经验值</Chinesesimp>
+				<Chinese>其他玩家的经验值</Chinese>
 			</Key>
 			<Key ID="str_title_xp_select_player">
 				<Original>SELECT A PLAYER</Original>
 				<English>SELECT A PLAYER</English>
 				<Portuguese>SELECIONE UM JOGADOR</Portuguese>
 				<Russian>ВЫБРАТЬ ИГРОКА</Russian>
-				<Chinesesimp>SELECT A PLAYER</Chinesesimp>
-				<Chinese>SELECT A PLAYER</Chinese>
+				<Chinesesimp>选择一个玩家</Chinesesimp>
+				<Chinese>选择一个玩家</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_contracts">
 				<Original>Can pay to Spot Players</Original>
 				<English>Can pay to Spot Players</English>
 				<Portuguese>Pagar para Spotar Jogadores</Portuguese>
 				<Russian>Оплатить Слежку за Игроком</Russian>
-				<Chinesesimp>Can pay to Spot Players</Chinesesimp>
-				<Chinese>Can pay to Spot Players</Chinese>
+				<Chinesesimp>花小钱让玩家暴露</Chinesesimp>
+				<Chinese>花小钱让玩家暴露</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_radio">
 				<Original>Radioactive Skin Protection</Original>
 				<English>Radioactive Skin Protection</English>
 				<Portuguese>Proteção Radioativa na Pele</Portuguese>
 				<Russian>Защита от Радиации</Russian>
-				<Chinesesimp>Radioactive Skin Protection</Chinesesimp>
-				<Chinese>Radioactive Skin Protection</Chinese>
+				<Chinesesimp>辐射抗性</Chinesesimp>
+				<Chinese>辐射抗性</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_vault_anywhere">
 				<Original>Open Vault anywhere</Original>
 				<English>Open Vault anywhere</English>
 				<Portuguese>Abrir Cofre em qualquer lugar</Portuguese>
 				<Russian>Сейы в Любом Месте</Russian>
-				<Chinesesimp>Open Vault anywhere</Chinesesimp>
-				<Chinese>Open Vault anywhere</Chinese>
+				<Chinesesimp>在任何地方打开保险库</Chinesesimp>
+				<Chinese>在任何地方打开保险库</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_vg_half_delay">
 				<Original>50% Virtual Garage Delay</Original>
 				<English>50% Virtual Garage Delay</English>
 				<Portuguese>Espera de 50% na Garagem Virtual</Portuguese>
 				<Russian>50% Задерки Парковки</Russian>
-				<Chinesesimp>50% Virtual Garage Delay</Chinesesimp>
-				<Chinese>50% Virtual Garage Delay</Chinese>
+				<Chinesesimp>减少 50% 虚拟车库等待时间</Chinesesimp>
+				<Chinese>减少 50% 虚拟车库等待时间</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_vg_35_delay">
 				<Original>35% Virtual Garage Delay</Original>
 				<English>35% Virtual Garage Delay</English>
 				<Portuguese>Espera de 35% na Garagem Virtual</Portuguese>
 				<Russian>35% Задерки Парковки</Russian>
-				<Chinesesimp>35% Virtual Garage Delay</Chinesesimp>
-				<Chinese>35% Virtual Garage Delay</Chinese>
+				<Chinesesimp>减少 35% 虚拟车库等待时间</Chinesesimp>
+				<Chinese>减少 35% 虚拟车库等待时间</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_vg_no_delay">
 				<Original>No Virtual Garage delay</Original>
 				<English>No Virtual Garage delay</English>
 				<Portuguese>Sem espera na Garagem Virtual</Portuguese>
 				<Russian>Парковка без Задержки</Russian>
-				<Chinesesimp>No Virtual Garage delay</Chinesesimp>
-				<Chinese>No Virtual Garage delay</Chinese>
+				<Chinesesimp>使用虚拟车库无需等待</Chinesesimp>
+				<Chinese>使用虚拟车库无需等待</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_half_hungry">
 				<Original>50% Hungry</Original>
 				<English>50% Hungry</English>
 				<Portuguese>Fome de 50%</Portuguese>
 				<Russian>50% Голода</Russian>
-				<Chinesesimp>50% Hungry</Chinesesimp>
-				<Chinese>50% Hungry</Chinese>
+				<Chinesesimp>饱食度下降速度降低 50%</Chinesesimp>
+				<Chinese>饱食度下降速度降低 50%</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_35_hungry">
 				<Original>35% Hungry</Original>
 				<English>35% Hungry</English>
 				<Portuguese>Fome de 35%</Portuguese>
 				<Russian>35% Голода</Russian>
-				<Chinesesimp>35% Hungry</Chinesesimp>
-				<Chinese>35% Hungry</Chinese>
+				<Chinesesimp>饱食度下降速度降低 35%</Chinesesimp>
+				<Chinese>饱食度下降速度降低 35%</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_light_eater">
 				<Original>Light Eater</Original>
 				<English>Light Eater</English>
 				<Portuguese>Comedor de Luz</Portuguese>
 				<Russian>Без Голода</Russian>
-				<Chinesesimp>Light Eater</Chinesesimp>
-				<Chinese>Light Eater</Chinese>
+				<Chinesesimp>从现在开始吃得更少</Chinesesimp>
+				<Chinese>从现在开始吃得更少</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_vg_anywhere">
 				<Original>Virtual Garage Anywhere</Original>
 				<English>Virtual Garage Anywhere</English>
 				<Portuguese>Garagem em todos lugares</Portuguese>
 				<Russian>Парковка в Любом Месте</Russian>
-				<Chinesesimp>Virtual Garage Anywhere</Chinesesimp>
-				<Chinese>Virtual Garage Anywhere</Chinese>
+				<Chinesesimp>在任何地方使用虚拟车库</Chinesesimp>
+				<Chinese>在任何地方使用虚拟车库</Chinese>
 			</Key>
 			<Key ID="str_xp_new_habilitie">
 				<Original>New Habilitie:</Original>
 				<English>New Habilitie:</English>
 				<Portuguese>Nova Habilidade:</Portuguese>
 				<Russian>Новые Способности:</Russian>
-				<Chinesesimp>New Habilitie:</Chinesesimp>
-				<Chinese>New Habilitie:</Chinese>
+				<Chinesesimp>新技能:</Chinesesimp>
+				<Chinese>新技能:</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_vg_x_slots">
 				<Original>Virtual Garage Slots LVL %1</Original>
 				<English>Virtual Garage Slots LVL %1</English>
 				<Portuguese>Slots da Garagem Virtual LVL %1</Portuguese>
 				<Russian>Количество Парковочных Мест LVL%1</Russian>
-				<Chinesesimp>Virtual Garage Slots LVL %1</Chinesesimp>
-				<Chinese>Virtual Garage Slots LVL %1</Chinese>
+				<Chinesesimp>虚拟车库车位 LVL %1</Chinesesimp>
+				<Chinese>虚拟车库车位 LVL %1</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_half_bus">
 				<Original>50% Bus Ticket</Original>
 				<English>50% Bus Ticket</English>
 				<Portuguese>50% na Passagem de Ônibus</Portuguese>
 				<Russian>50% Билет на Автобус</Russian>
-				<Chinesesimp>50% Bus Ticket</Chinesesimp>
-				<Chinese>50% Bus Ticket</Chinese>
+				<Chinesesimp>公交票价打五折</Chinesesimp>
+				<Chinese>公交票价打五折</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_arty_range">
 				<Original>Increased Arty Range</Original>
 				<English>Increased Arty Range</English>
 				<Portuguese>Maior Alcance da Artilharia</Portuguese>
 				<Russian>Увеличенный Радиус Артиллерии</Russian>
-				<Chinesesimp>Increased Arty Range</Chinesesimp>
-				<Chinese>Increased Arty Range</Chinese>
+				<Chinesesimp>提高自行火炮射程</Chinesesimp>
+				<Chinese>提高自行火炮射程</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_half_farm_time">
 				<Original>Faster Farm and Craft</Original>
 				<English>Faster Farm and Craft</English>
 				<Portuguese>Farm e Craft mais Rápidos</Portuguese>
 				<Russian>Быстрый Фарм и Крафт</Russian>
-				<Chinesesimp>Faster Farm and Craft</Chinesesimp>
-				<Chinese>Faster Farm and Craft</Chinese>
+				<Chinesesimp>更快的采集和制作</Chinesesimp>
+				<Chinese>更快的采集和制作</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_less_fuel_consume">
 				<Original>Less Fuel Consume</Original>
 				<English>Less Fuel Consume</English>
 				<Portuguese>Menor Consumo de Combustível</Portuguese>
 				<Russian>Низкий Расход Топлива</Russian>
-				<Chinesesimp>Less Fuel Consume</Chinesesimp>
-				<Chinese>Less Fuel Consume</Chinese>
+				<Chinesesimp>减少燃料消耗</Chinesesimp>
+				<Chinese>减少燃料消耗</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_shield">
 				<Original>Lead Personal Shield</Original>
 				<English>Lead Personal Shield</English>
 				<Portuguese>Escudo Pessoal de Chumbo</Portuguese>
 				<Russian>Защитный Экран</Russian>
-				<Chinesesimp>Lead Personal Shield</Chinesesimp>
-				<Chinese>Lead Personal Shield</Chinese>
+				<Chinesesimp>先进的个人掩体</Chinesesimp>
+				<Chinese>先进的个人掩体</Chinese>
 			</Key>
 			<Key ID="str_disable_message_no_xp">
 				<Original>%1 disabled by %3 with %4 from %5m (recent friend, no XP).</Original>
@@ -10151,152 +10151,152 @@
 				<English>Franta Mine</English>
 				<Portuguese>Mina Franta</Portuguese>
 				<Russian>Франта-Мина</Russian>
-				<Chinesesimp>Franta Mine</Chinesesimp>
-				<Chinese>Franta Mine</Chinese>
+				<Chinesesimp>Franta 地雷</Chinesesimp>
+				<Chinese>Franta 地雷</Chinese>
 			</Key>
 			<Key ID="str_bmine_cant_have_near">
 				<Original>There is a mine less than 10 meters away (%1 meters).</Original>
 				<English>There is a mine less than 10 meters away (%1 meters).</English>
 				<Portuguese>Tem uma mina a menos de 10 metros (%1 metros).</Portuguese>
 				<Russian>Мина менее, чем в 10 метрах (%1 метров).</Russian>
-				<Chinesesimp>There is a mine less than 10 meters away (%1 meters).</Chinesesimp>
-				<Chinese>There is a mine less than 10 meters away (%1 meters).</Chinese>
+				<Chinesesimp>10米之内有Franta地雷 (%1 meters).</Chinesesimp>
+				<Chinese>10米之内有Franta地雷 (%1 meters).</Chinese>
 			</Key>
 			<Key ID="str_base_mine_defuse">
 				<Original>Franta Mine Defuse</Original>
 				<English>Franta Mine Defuse</English>
 				<Portuguese>Desarmar Mina Franta</Portuguese>
 				<Russian>Разрядить Франта-Мину</Russian>
-				<Chinesesimp>Franta Mine Defuse</Chinesesimp>
-				<Chinese>Franta Mine Defuse</Chinese>
+				<Chinesesimp>Franta地雷 拆除</Chinesesimp>
+				<Chinese>Franta地雷 拆除</Chinese>
 			</Key>
 			<Key ID="str_base_mine_info">
 				<Original>Press [ctrl+alt+e] when a Franta Mine is about to explode!</Original>
 				<English>Press [ctrl+alt+e] when a Franta Mine is about to explode!</English>
 				<Portuguese>Pressione [ctrl+alt+e] quando uma Mina Franta for explodir!</Portuguese>
 				<Russian>Нажми [Ctrl + Alt + e] до взрыва Франта-Мины!</Russian>
-				<Chinesesimp>Press [ctrl+alt+e] when a Franta Mine is about to explode!</Chinesesimp>
-				<Chinese>Press [ctrl+alt+e] when a Franta Mine is about to explode!</Chinese>
+				<Chinesesimp>在Franta地雷快要爆炸的时候按 [ctrl+alt+e]</Chinesesimp>
+				<Chinese>在Franta地雷快要爆炸的时候按 [ctrl+alt+e]</Chinese>
 			</Key>
 			<Key ID="str_base_mine_cant_flag_limit">
 				<Original>You reached the flag limit!</Original>
 				<English>You reached the flag limit!</English>
 				<Portuguese>Você atingiu o limite da bandeira!</Portuguese>
 				<Russian>Достигнут предел Флага!</Russian>
-				<Chinesesimp>You reached the flag limit!</Chinesesimp>
-				<Chinese>You reached the flag limit!</Chinese>
+				<Chinesesimp>你不能插更多领地旗了!</Chinesesimp>
+				<Chinese>你不能插更多领地旗了!</Chinese>
 			</Key>
 			<Key ID="str_bandit_not_allowed">
 				<Original>You can't do that in PVE area.</Original>
 				<English>You can't do that in PVE area.</English>
 				<Portuguese>Você não pode fazer isso na área PVE.</Portuguese>
 				<Russian>Никак! Нельзя этого делать в зоне PVE.</Russian>
-				<Chinesesimp>You can't do that in PVE area.</Chinesesimp>
-				<Chinese>You can't do that in PVE area.</Chinese>
+				<Chinesesimp>你不能在PVE区域这么做</Chinesesimp>
+				<Chinese>你不能在PVE区域这么做</Chinese>
 			</Key>
 			<Key ID="str_bandit_use_again_to_money">
 				<Original>Denied! Use again to convert in money.</Original>
 				<English>Denied! Use again to convert in money.</English>
 				<Portuguese>Inpedido! Use de novo para converter em dinheiro.</Portuguese>
 				<Russian>Никак! Сконвертируй в деньги.</Russian>
-				<Chinesesimp>Denied! Use again to convert in money.</Chinesesimp>
-				<Chinese>Denied! Use again to convert in money.</Chinese>
+				<Chinesesimp>拒绝! 再使用一次转换成金钱</Chinesesimp>
+				<Chinese>拒绝! 再使用一次转换成金钱</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_tow_2">
 				<Original>X2 Land Vehicle Tow</Original>
 				<English>X2 Land Vehicle Tow</English>
 				<Portuguese>Reboque de Carro X2</Portuguese>
 				<Russian>X2 Буксировка</Russian>
-				<Chinesesimp>X2 Land Vehicle Tow</Chinesesimp>
-				<Chinese>X2 Land Vehicle Tow</Chinese>
+				<Chinesesimp>X2 地面载具拖车</Chinesesimp>
+				<Chinese>X2 地面载具拖车</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_tow_3">
 				<Original>X3 Land Vehicle Tow</Original>
 				<English>X3 Land Vehicle Tow</English>
 				<Portuguese>Reboque de Carro X3</Portuguese>
 				<Russian>X3 Буксировка</Russian>
-				<Chinesesimp>X3 Land Vehicle Tow</Chinesesimp>
-				<Chinese>X3 Land Vehicle Tow</Chinese>
+				<Chinesesimp>X3 地面载具拖车</Chinesesimp>
+				<Chinese>X3 地面载具拖车</Chinese>
 			</Key>
 			<Key ID="str_xp_veh_landvehicle">
 				<Original>Land Vehicle Use</Original>
 				<English>Land Vehicle Use</English>
 				<Portuguese>Uso de Veículo de Terra</Portuguese>
 				<Russian>Использование Наземной Техники</Russian>
-				<Chinesesimp>Land Vehicle Use</Chinesesimp>
-				<Chinese>Land Vehicle Use</Chinese>
+				<Chinesesimp>使用地面载具</Chinesesimp>
+				<Chinese>使用地面载具</Chinese>
 			</Key>
 			<Key ID="str_xp_veh_helicopter">
 				<Original>Helicopter Use</Original>
 				<English>Helicopter Use</English>
 				<Portuguese>Use de Helicoptero</Portuguese>
 				<Russian>Использование Вертолёта</Russian>
-				<Chinesesimp>Helicopter Use</Chinesesimp>
-				<Chinese>Helicopter Use</Chinese>
+				<Chinesesimp>使用直升机</Chinesesimp>
+				<Chinese>使用直升机</Chinese>
 			</Key>
 			<Key ID="str_xp_veh_plane">
 				<Original>Jet/Plane Use</Original>
 				<English>Jet/Plane Use</English>
 				<Portuguese>Uso de Jato/Avião</Portuguese>
 				<Russian>Использование Самолёта</Russian>
-				<Chinesesimp>Jet/Plane Use</Chinesesimp>
-				<Chinese>Jet/Plane Use</Chinese>
+				<Chinesesimp>使用固定翼</Chinesesimp>
+				<Chinese>使用固定翼</Chinese>
 			</Key>
 			<Key ID="str_xp_veh_ship">
 				<Original>Ship Use</Original>
 				<English>Ship Use</English>
 				<Portuguese>Uso de Barco</Portuguese>
 				<Russian>Использование Водной Техники</Russian>
-				<Chinesesimp>Ship Use</Chinesesimp>
-				<Chinese>Ship Use</Chinese>
+				<Chinesesimp>使用船只</Chinesesimp>
+				<Chinese>使用船只</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_bank_limit">
 				<Original>+%1M on Bank Limit</Original>
 				<English>+%1M on Bank Limit</English>
 				<Portuguese>+%1M no Limite do Banco</Portuguese>
 				<Russian>+%1M сверх лимита в Банке</Russian>
-				<Chinesesimp>+%1M on Bank Limit</Chinesesimp>
-				<Chinese>+%1M on Bank Limit</Chinese>
+				<Chinesesimp>银行存款上限增加%1百万</Chinesesimp>
+				<Chinese>银行存款上限增加%1百万</Chinese>
 			</Key>
 			<Key ID="str_explist_double_xp">
 				<Original>Double XP</Original>
 				<English>Double XP</English>
 				<Portuguese>XP Duplo</Portuguese>
 				<Russian>Удвоение XP</Russian>
-				<Chinesesimp>Double XP</Chinesesimp>
-				<Chinese>Double XP</Chinese>
+				<Chinesesimp>双倍经验</Chinesesimp>
+				<Chinese>双倍经验</Chinese>
 			</Key>
 			<Key ID="str_xp_hours_played">
 				<Original>Hours played</Original>
 				<English>Hours played</English>
 				<Portuguese>Horas Jogadas</Portuguese>
 				<Russian>Отыграно часов</Russian>
-				<Chinesesimp>Hours played</Chinesesimp>
-				<Chinese>Hours played</Chinese>
+				<Chinesesimp>已经游玩小时数</Chinesesimp>
+				<Chinese>已经游玩小时数</Chinese>
 			</Key>
 			<Key ID="str_land_autopilot_off">
 				<Original>Landing Autopilot is off!</Original>
 				<English>Landing Autopilot is off!</English>
 				<Portuguese>O Piloto Automático de pouso esta desligado!</Portuguese>
 				<Russian>Автоматическая посадка выключена!</Russian>
-				<Chinesesimp>Landing Autopilot is off!</Chinesesimp>
-				<Chinese>Landing Autopilot is off!</Chinese>
+				<Chinesesimp>自动降落已经关闭!</Chinesesimp>
+				<Chinese>自动降落已经关闭!</Chinese>
 			</Key>
 			<Key ID="str_xp_enable_msg">
 				<Original>Players need to relog to the change take effect.</Original>
 				<English>Players need to relog to the change take effect.</English>
 				<Portuguese>Os players precisam relogar para que a alteração tenha efeito.</Portuguese>
 				<Russian>Для применения изменений необходимо переподключиться к серверу.</Russian>
-				<Chinesesimp>Players need to relog to the change take effect.</Chinesesimp>
-				<Chinese>Players need to relog to the change take effect.</Chinese>
+				<Chinesesimp>玩家需要重新登陆以便使修改生效</Chinesesimp>
+				<Chinese>玩家需要重新登陆以便使修改生效</Chinese>
 			</Key>
 			<Key ID="str_delete_mark">
 				<Original>Delete Mark</Original>
 				<English>Delete Mark</English>
 				<Portuguese>Apagar Marca</Portuguese>
 				<Russian>Удалить Метку</Russian>
-				<Chinesesimp>Delete Mark</Chinesesimp>
-				<Chinese>Delete Mark</Chinese>
+				<Chinesesimp>删除标记</Chinesesimp>
+				<Chinese>删除标记</Chinese>
 			</Key>
 			<Key ID="str_insurance_action_trader_drone">
 				<Original>Insurance Trader (drone)</Original>
@@ -10311,200 +10311,200 @@
 				<English>You can't raid this vehicle because\nit's in a base and you is not at the flag!</English>
 				<Portuguese>Você não pode raidar este veículo\nporque ele esta em uma base e você não esta na bandeira!</Portuguese>
 				<Russian>Никак! Ты не можешь захватить эту технику.\nОна на базе и база не твоя!</Russian>
-				<Chinesesimp>You can't raid this vehicle because\nit's in a base and you is not at the flag!</Chinesesimp>
-				<Chinese>You can't raid this vehicle because\nit's in a base and you is not at the flag!</Chinese>
+				<Chinesesimp>你不能抢劫这个载具因为\n它在一个基地中且你不属于这里！</Chinesesimp>
+				<Chinese>你不能抢劫这个载具因为\n它在一个基地中且你不属于这里！</Chinese>
 			</Key>
 			<Key ID="str_obj_super_protected">
 				<Original>This object is Super Protected!</Original>
 				<English>This object is Super Protected!</English>
 				<Portuguese>Este objeto é Super Protegido!</Portuguese>
 				<Russian>Этот объект с усиленной защитой!</Russian>
-				<Chinesesimp>This object is Super Protected!</Chinesesimp>
-				<Chinese>This object is Super Protected!</Chinese>
+				<Chinesesimp>该物体已经被保护!</Chinesesimp>
+				<Chinese>该物体已经被保护!</Chinese>
 			</Key>
 			<Key ID="str_disabled_players">
 				<Original>Incapacitated Players</Original>
 				<English>Incapacitated Players</English>
 				<Portuguese>Players Incapacitados</Portuguese>
 				<Russian>Недееспособные Игроки</Russian>
-				<Chinesesimp>Incapacitated Players</Chinesesimp>
-				<Chinese>Incapacitated Players</Chinese>
+				<Chinesesimp>失去意识的玩家</Chinesesimp>
+				<Chinese>失去意识的玩家</Chinese>
 			</Key>
 			<Key ID="str_scan_select_obj">
 				<Original>SELECT OBJECT TO FOLLOW</Original>
 				<English>SELECT OBJECT TO FOLLOW</English>
 				<Portuguese>SELECIONE O OBJETO PARA SEGUIR</Portuguese>
 				<Russian>ВЫБРАТЬ ОБЪЕКТ ДЛЯ СЛЕЖЕНИЯ</Russian>
-				<Chinesesimp>SELECT OBJECT TO FOLLOW</Chinesesimp>
-				<Chinese>SELECT OBJECT TO FOLLOW</Chinese>
+				<Chinesesimp>选择一个对象</Chinesesimp>
+				<Chinese>选择一个对象</Chinese>
 			</Key>
 			<Key ID="str_scan_stop">
 				<Original>Stop Scan</Original>
 				<English>Stop Scan</English>
 				<Portuguese>Parar Scan</Portuguese>
 				<Russian>Остановить Сканирование</Russian>
-				<Chinesesimp>Stop Scan</Chinesesimp>
-				<Chinese>Stop Scan</Chinese>
+				<Chinesesimp>停止扫描</Chinesesimp>
+				<Chinese>停止扫描</Chinese>
 			</Key>
 			<Key ID="str_other_boxes">
 				<Original>Loot Boxes</Original>
 				<English>Loot Boxes</English>
 				<Portuguese>Caixas de Loot</Portuguese>
 				<Russian>Ящики с Предметами</Russian>
-				<Chinesesimp>Loot Boxes</Chinesesimp>
-				<Chinese>Loot Boxes</Chinese>
+				<Chinesesimp>战利品箱子</Chinesesimp>
+				<Chinese>战利品箱子</Chinese>
 			</Key>
 			<Key ID="str_cant_enemy_flag_near">
 				<Original>Can't! There is a flag area in less than %1 meters\nfrom you and you is not in that flag!</Original>
 				<English>Can't! There is a flag area in less than %1 meters\nfrom you and you is not in that flag!</English>
 				<Portuguese>Não pode! Tem uma área de bandeira a menos de %1 metros\nde você e você não esta nesta bandeira!</Portuguese>
 				<Russian>Никак! Рядом есть флаг менее, чем в %1 метрах\nи этот флаг не твой!</Russian>
-				<Chinesesimp>Can't! There is a flag area in less than %1 meters\nfrom you and you is not in that flag!</Chinesesimp>
-				<Chinese>Can't! There is a flag area in less than %1 meters\nfrom you and you is not in that flag!</Chinese>
+				<Chinesesimp>不能这么做！有一个领地旗距离你 %1 meters\n且你不属于那个领地旗</Chinesesimp>
+				<Chinese>不能这么做！有一个领地旗距离你 %1 meters\n且你不属于那个领地旗</Chinese>
 			</Key>
 			<Key ID="str_cant_move_active_turret">
 				<Original>You can't move an active turret!</Original>
 				<English>You can't move an active turret!</English>
 				<Portuguese>Você não pode mover uma turreta ativa!</Portuguese>
 				<Russian>Никак! Нельзя двигать активную турель!</Russian>
-				<Chinesesimp>You can't move an active turret!</Chinesesimp>
-				<Chinese>You can't move an active turret!</Chinese>
+				<Chinesesimp>你不能移动一个激活的炮塔！</Chinesesimp>
+				<Chinese>你不能移动一个激活的炮塔！/Chinese>
 			</Key>
 			<Key ID="str_select_bob_destine">
 				<Original>Select Bob Tow destine (click on map).</Original>
 				<English>Select Bob Tow destine (click on map).</English>
 				<Portuguese>Selecione o destino do Bob (clique no mapa).</Portuguese>
 				<Russian>Выбери назначение для буксира (клик на карте).</Russian>
-				<Chinesesimp>Select Bob Tow destine (click on map).</Chinesesimp>
-				<Chinese>Select Bob Tow destine (click on map).</Chinese>
+				<Chinesesimp>让Bob把车拖到... (在地图上点击)</Chinesesimp>
+				<Chinese>让Bob把车拖到... (在地图上点击)</Chinese>
 			</Key>
 			<Key ID="str_select_bob_destine_b">
 				<Original>Click on your player to follow you.</Original>
 				<English>Click on your player to follow you.</English>
 				<Portuguese>Clique no seu player para te seguir.</Portuguese>
 				<Russian>Кликни по своему персонажу и буксир будет следовать за тобой.</Russian>
-				<Chinesesimp>Click on your player to follow you.</Chinesesimp>
-				<Chinese>Click on your player to follow you.</Chinese>
+				<Chinesesimp>点击你自己让Bob跟着你.</Chinesesimp>
+				<Chinese>点击你自己让Bob跟着你.</Chinese>
 			</Key>
 			<Key ID="str_bob_follow_you">
 				<Original>Bob Tow is following you!</Original>
 				<English>Bob Tow is following you!</English>
 				<Portuguese>O Reboque Bob esta te seguindo!</Portuguese>
 				<Russian>Буксир следует за тобой!</Russian>
-				<Chinesesimp>Bob Tow is following you!</Chinesesimp>
-				<Chinese>Bob Tow is following you!</Chinese>
+				<Chinesesimp>Bob正跟着你!</Chinesesimp>
+				<Chinese>Bob正跟着你!</Chinese>
 			</Key>
 			<Key ID="str_bbomb_need_x">
 				<Original>You need %1 bomb(s), you have only %2!</Original>
 				<English>You need %1 bomb(s), you have only %2!</English>
 				<Portuguese>Você precisa de %1 bomba(s), você só tem %2!</Portuguese>
 				<Russian>Необходимо %1 бомб, а у тебя есть только %2!</Russian>
-				<Chinesesimp>You need %1 bomb(s), you have only %2!</Chinesesimp>
-				<Chinese>You need %1 bomb(s), you have only %2!</Chinese>
+				<Chinesesimp>你需要 %1 个炸弹, 你只有 %2 个!</Chinesesimp>
+				<Chinese>你需要 %1 个炸弹, 你只有 %2 个!</Chinese>
 			</Key>
 			<Key ID="str_reset_to_zero">
 				<Original>Reset to Zero</Original>
 				<English>Reset to Zero</English>
 				<Portuguese>Resetar para Zero</Portuguese>
 				<Russian>Установить в 0</Russian>
-				<Chinesesimp>Reset to Zero</Chinesesimp>
-				<Chinese>Reset to Zero</Chinese>
+				<Chinesesimp>清零</Chinesesimp>
+				<Chinese>清零</Chinese>
 			</Key>
 			<Key ID="str_rearm_vehicle_item_name">
 				<Original>Rearm Vehicle</Original>
 				<English>Rearm Vehicle</English>
 				<Portuguese>Rearmar Veículo</Portuguese>
 				<Russian>Восстановить БК Техники</Russian>
-				<Chinesesimp>Rearm Vehicle</Chinesesimp>
-				<Chinese>Rearm Vehicle</Chinese>
+				<Chinesesimp>补充载具弹药</Chinesesimp>
+				<Chinese>补充载具弹药</Chinese>
 			</Key>
 			<Key ID="str_kit_bunkers">
 				<Original>Bunkers Kit</Original>
 				<English>Bunkers Kit</English>
 				<Portuguese>Kit Bunkers</Portuguese>
 				<Russian>Набор для Бункера</Russian>
-				<Chinesesimp>Bunkers Kit</Chinesesimp>
-				<Chinese>Bunkers Kit</Chinese>
+				<Chinesesimp>碉堡套件</Chinesesimp>
+				<Chinese>碉堡套件</Chinese>
 			</Key>
 			<Key ID="str_life">
 				<Original>LIFE</Original>
 				<English>LIFE</English>
 				<Portuguese>VIDA</Portuguese>
 				<Russian>ЖИЗНЬ</Russian>
-				<Chinesesimp>LIFE</Chinesesimp>
-				<Chinese>LIFE</Chinese>
+				<Chinesesimp>生命</Chinesesimp>
+				<Chinese>生命</Chinese>
 			</Key>
 			<Key ID="str_show_newers">
 				<Original>Show Beginners</Original>
 				<English>Show Beginners</English>
 				<Portuguese>Mostrar Novatos</Portuguese>
 				<Russian>Показать Начинающих</Russian>
-				<Chinesesimp>Show Beginners</Chinesesimp>
-				<Chinese>Show Beginners</Chinese>
+				<Chinesesimp>显示萌新</Chinesesimp>
+				<Chinese>显示萌新</Chinese>
 			</Key>
 			<Key ID="str_newers_list">
 				<Original>BEGINNERS LIST</Original>
 				<English>BEGINNERS LIST</English>
 				<Portuguese>LISTA DE NOVATOS</Portuguese>
 				<Russian>СПИСОК НАЧИНАЮЩИХ</Russian>
-				<Chinesesimp>BEGINNERS LIST</Chinesesimp>
-				<Chinese>BEGINNERS LIST</Chinese>
+				<Chinesesimp>萌新列表</Chinesesimp>
+				<Chinese>萌新列表</Chinese>
 			</Key>
 			<Key ID="str_move_near">
 				<Original>Move near!</Original>
 				<English>Move near!</English>
 				<Portuguese>Mova-se para mais perto!</Portuguese>
 				<Russian>Подойди ближе!</Russian>
-				<Chinesesimp>Move near!</Chinesesimp>
-				<Chinese>Move near!</Chinese>
+				<Chinesesimp>靠近点!</Chinesesimp>
+				<Chinese>靠近点!</Chinese>
 			</Key>
             <Key ID="str_punch">
                 <Original>Punch</Original>
                 <English>Punch</English>
                 <Portuguese>Porrada</Portuguese>
                 <Russian>Удар</Russian>
-                <Chinesesimp>Punch</Chinesesimp>
-                <Chinese>Punch</Chinese>
+                <Chinesesimp>大嘴巴子</Chinesesimp>
+                <Chinese>大嘴巴子</Chinese>
             </Key>
             <Key ID="str_build_fly_on">
                 <Original>Construction Fly is On!</Original>
                 <English>Construction Fly is On!</English>
                 <Portuguese>Voo de Construção esta Ligado!</Portuguese>
                 <Russian>Режим Невесомости Включён!</Russian>
-                <Chinesesimp>Construction Fly is On!</Chinesesimp>
-                <Chinese>Construction Fly is On!</Chinese>
+                <Chinesesimp>建造飞行开启!</Chinesesimp>
+                <Chinese>建造飞行开启!</Chinese>
             </Key>
             <Key ID="str_build_fly_off">
                 <Original>Construction Fly is Off!</Original>
                 <English>Construction Fly is Off!</English>
                 <Portuguese>Voo de Construção esta Desligado!</Portuguese>
                 <Russian>Режим Невесомости Выключен!</Russian>
-                <Chinesesimp>Construction Fly is Off!</Chinesesimp>
-                <Chinese>Construction Fly is Off!</Chinese>
+                <Chinesesimp>建造飞行关闭!</Chinesesimp>
+                <Chinese>建造飞行关闭!</Chinese>
             </Key>
 			<Key ID="str_turret_upgrade">
 				<Original>Upgrade: $%1K</Original>
 				<English>Upgrade: $%1K</English>
 				<Portuguese>Dar Upgrade: $%1K</Portuguese>
 				<Russian>Модернизация: $%1K</Russian>
-				<Chinesesimp>Upgrade: $%1K</Chinesesimp>
-				<Chinese>Upgrade: $%1K</Chinese>
+				<Chinesesimp>升级: $%1K</Chinesesimp>
+				<Chinese>升级: $%1K</Chinese>
 			</Key>
 			<Key ID="str_turret_upgradeadm">
 				<Original>Upgrade: $%1K (Adm)</Original>
 				<English>Upgrade: $%1K (Adm)</English>
 				<Portuguese>Dar Upgrade: $%1K (Adm)</Portuguese>
 				<Russian>Модернизация: $%1K (Адм)</Russian>
-				<Chinesesimp>Upgrade: $%1K (Adm)</Chinesesimp>
-				<Chinese>Upgrade: $%1K (Adm)</Chinese>
+				<Chinesesimp>升级: $%1K (Adm)</Chinesesimp>
+				<Chinese>升级: $%1K (Adm)</Chinese>
 			</Key>
 			<Key ID="str_cant_is_upgraded">
 				<Original>This turret is already upgraded!</Original>
 				<English>This turret is already upgraded!</English>
 				<Portuguese>Esta turreta ja foi melhorada!</Portuguese>
 				<Russian>Эта турель уже модернизирована!</Russian>
-				<Chinesesimp>This turret is already upgraded!</Chinesesimp>
-				<Chinese>This turret is already upgraded!</Chinese>
+				<Chinesesimp>这个炮塔已经升级过了!</Chinesesimp>
+				<Chinese>这个炮塔已经升级过了!</Chinese>
 			</Key>
 			<Key ID="str_kit_turret_lvl2">
 				<Original>Defense Turrets LVL2</Original>
@@ -10519,320 +10519,320 @@
 				<English>Turret Upgrade</English>
 				<Portuguese>Melhora de Turreta</Portuguese>
 				<Russian>Модернизация Турелей</Russian>
-				<Chinesesimp>Turret Upgrade</Chinesesimp>
-				<Chinese>Turret Upgrade</Chinese>
+				<Chinesesimp>炮塔升级</Chinesesimp>
+				<Chinese>炮塔升级</Chinese>
 			</Key>
 			<Key ID="str_up_turret_item_descr">
 				<Original>Upgrade your turret at the turret Item Menu, upgrade option!</Original>
 				<English>Upgrade your turret at the turret Item Menu, upgrade option!</English>
 				<Portuguese>Melhore sua turreta no Menu do Item da turreta, opção upgrade!</Portuguese>
 				<Russian>Модернизируй турель в Меню Предметов!</Russian>
-				<Chinesesimp>Upgrade your turret at the turret Item Menu, upgrade option!</Chinesesimp>
-				<Chinese>Upgrade your turret at the turret Item Menu, upgrade option!</Chinese>
+				<Chinesesimp>在你炮塔的物品菜单中升级你的炮塔!</Chinesesimp>
+				<Chinese>在你炮塔的物品菜单中升级你的炮塔!</Chinese>
 			</Key>
 			<Key ID="str_you_need_turr_up_item">
 				<Original>You need the turret upgrade item.</Original>
 				<English>You need the turret upgrade item.</English>
 				<Portuguese>Você precisa do item de melhora de turreta.</Portuguese>
 				<Russian>Нужен комплект модернизации.</Russian>
-				<Chinesesimp>You need the turret upgrade item.</Chinesesimp>
-				<Chinese>You need the turret upgrade item.</Chinese>
+				<Chinesesimp>你需要升级炮塔的物品.</Chinesesimp>
+				<Chinese>你需要升级炮塔的物品.</Chinese>
 			</Key>
 			<Key ID="str_vg_get_no_space">
 				<Original>There is not enough free space to put the vehicle!</Original>
 				<English>There is not enough free space to put the vehicle!</English>
 				<Portuguese>Não há espaço suficiente para colocar o veículo!</Portuguese>
 				<Russian>Никак! Недостаточно места. Техника не поместится!</Russian>
-				<Chinesesimp>There is not enough free space to put the vehicle!</Chinesesimp>
-				<Chinese>There is not enough free space to put the vehicle!</Chinese>
+				<Chinesesimp>没有足够的地方放下这个载具!</Chinesesimp>
+				<Chinese>没有足够的地方放下这个载具!</Chinese>
 			</Key>
 			<Key ID="str_xp_remaining_to_use">
 				<Original>XP TO USE:</Original>
 				<English>XP TO USE:</English>
 				<Portuguese>XP A USAR:</Portuguese>
 				<Russian>ДОСТУПНЫЙ ОПЫТ:</Russian>
-				<Chinesesimp>XP TO USE:</Chinesesimp>
-				<Chinese>XP TO USE:</Chinese>
+				<Chinesesimp>可用经验点:</Chinesesimp>
+				<Chinese>可用经验点:</Chinese>
 			</Key>
 			<Key ID="str_perk_cant_no_xp">
 				<Original>You need to have reached %1K XP!</Original>
 				<English>You need to have reached %1K XP!</English>
 				<Portuguese>Você precisa ter chegado a %1K XP!</Portuguese>
 				<Russian>Необходимо достичь %1K ОПЫТА!</Russian>
-				<Chinesesimp>You need to have reached %1K XP!</Chinesesimp>
-				<Chinese>You need to have reached %1K XP!</Chinese>
+				<Chinesesimp>你需要达到 %1K 经验!</Chinesesimp>
+				<Chinese>你需要达到 %1K 经验!</Chinese>
 			</Key>
 			<Key ID="str_perk_cant_no_perk">
 				<Original>You need those habilities:</Original>
 				<English>You need those habilities:</English>
 				<Portuguese>Você precisa destas habilidades:</Portuguese>
 				<Russian>Нужны способности:</Russian>
-				<Chinesesimp>You need those habilities:</Chinesesimp>
-				<Chinese>You need those habilities:</Chinese>
+				<Chinesesimp>你需要这个技能:</Chinesesimp>
+				<Chinese>你需要这个技能:</Chinese>
 			</Key>
 			<Key ID="str_perk_cant_no_remain">
 				<Original>This habilitie costs %1K XP, but you have only %2K!</Original>
 				<English>This habilitie costs %1K XP, but you have only %2K!</English>
 				<Portuguese>Esta habilidade custa %1K XP, mas você só tem %2K!</Portuguese>
 				<Russian>Эта способность стоит %1K ОПЫТА, а у тебя только %2K!</Russian>
-				<Chinesesimp>This habilitie costs %1K XP, but you have only %2K!</Chinesesimp>
-				<Chinese>This habilitie costs %1K XP, but you have only %2K!</Chinese>
+				<Chinesesimp>这个技能价值 %1K 经验点, 但是你只有 %2K!</Chinesesimp>
+				<Chinese>这个技能价值 %1K 经验点, 但是你只有 %2K!</Chinese>
 			</Key>
 			<Key ID="str_perk_add_confirm">
 				<Original>This habilitie costs %1K XP, please confirm!</Original>
 				<English>This habilitie costs %1K XP, please confirm!</English>
 				<Portuguese>Esta habilidade custa %1K XP, por favor confirme!</Portuguese>
 				<Russian>Эта способность стоит %1K ОПЫТА, подтверди!</Russian>
-				<Chinesesimp>This habilitie costs %1 XP, please confirm!</Chinesesimp>
-				<Chinese>This habilitie costs %1K XP, please confirm!</Chinese>
+				<Chinesesimp>购买这个技能会使用 %1 经验点, 请确认!</Chinesesimp>
+				<Chinese>购买这个技能会使用 %1 经验点, 请确认!</Chinese>
 			</Key>
 			<Key ID="str_click_to_close">
 				<Original>Click to close...</Original>
 				<English>Click to close...</English>
 				<Portuguese>Clique para fechar...</Portuguese>
 				<Russian>Кликни для закрытия...</Russian>
-				<Chinesesimp>Click to close...</Chinesesimp>
-				<Chinese>Click to close...</Chinese>
+				<Chinesesimp>点击以关闭...</Chinesesimp>
+				<Chinese>点击以关闭...</Chinese>
 			</Key>
 			<Key ID="str_perk_more_healthy">
 				<Original>%1%2 more player healthy!</Original>
 				<English>%1%2 more player healthy!</English>
 				<Portuguese>%1%2 mais vida para o player!</Portuguese>
 				<Russian>%1%2 больше здоровья!</Russian>
-				<Chinesesimp>%1%2 more player healthy!</Chinesesimp>
-				<Chinese>%1%2 more player healthy!</Chinese>
+				<Chinesesimp>%1%2 生命值增加!</Chinesesimp>
+				<Chinese>%1%2 生命值增加!</Chinese>
 			</Key>
 			<Key ID="str_xp_used">
 				<Original>XP USED:</Original>
 				<English>XP USED:</English>
 				<Portuguese>XP USADO:</Portuguese>
 				<Russian>ИСПОЛЬЗОВАНО ОПЫТА:</Russian>
-				<Chinesesimp>XP USED:</Chinesesimp>
-				<Chinese>XP USED:</Chinese>
+				<Chinesesimp>已用经验点:</Chinesesimp>
+				<Chinese>已用经验点:</Chinese>
 			</Key>
 			<Key ID="str_xp_cancel_perk">
 				<Original>You want to pay %1K to cancel this habilitie?</Original>
 				<English>You want to pay %1K to cancel this habilitie?</English>
 				<Portuguese>Você quer pagar %1K para cancelar esta habilidade?</Portuguese>
 				<Russian>Хочешь заплатить %1K для отказа от способности?</Russian>
-				<Chinesesimp>You want to pay %1K to cancel this habilitie?</Chinesesimp>
-				<Chinese>You want to pay %1K to cancel this habilitie?</Chinese>
+				<Chinesesimp>你真的要花费 %1K 放弃这个技能?</Chinesesimp>
+				<Chinese>你真的要花费 %1K 放弃这个技能?</Chinese>
 			</Key>
 			<Key ID="str_xp_cancel_before">
 				<Original>Do you want to cancel this habilitie? You need to cancel those before:</Original>
 				<English>Do you want to cancel this habilitie? You need to cancel those before:</English>
 				<Portuguese>Você quer cancelar esta habilidade? Você precisa cancelar estas primeiro:</Portuguese>
 				<Russian>Хочешь отказаться от способности? Сначала откажись от:</Russian>
-				<Chinesesimp>Do you want to cancel this habilitie? You need to cancel those before:</Chinesesimp>
-				<Chinese>Do you want to cancel this habilitie? You need to cancel those before:</Chinese>
+				<Chinesesimp>你真的要放弃这个技能? 你需要先放弃:</Chinesesimp>
+				<Chinese>你真的要放弃这个技能? 你需要先放弃:</Chinese>
 			</Key>
 			<Key ID="str_xp_habilitie_canceled">
 				<Original>You canceled the habilitie:</Original>
 				<English>You canceled the habilitie:</English>
 				<Portuguese>Você cancelou a habilidade:</Portuguese>
 				<Russian>Ты отказался от способности:</Russian>
-				<Chinesesimp>You canceled the habilitie:</Chinesesimp>
-				<Chinese>You canceled the habilitie:</Chinese>
+				<Chinesesimp>你放弃了这个技能:</Chinesesimp>
+				<Chinese>你放弃了这个技能:</Chinese>
 			</Key>
 			<Key ID="str_xp_sanctuary">
 				<Original>XP Sanctuary</Original>
 				<English>XP Sanctuary</English>
 				<Portuguese>Santuário XP</Portuguese>
 				<Russian>Святилище ОПЫТА</Russian>
-				<Chinesesimp>XP Sanctuary</Chinesesimp>
-				<Chinese>XP Sanctuary</Chinese>
+				<Chinesesimp>经验兑换</Chinesesimp>
+				<Chinese>经验兑换</Chinese>
 			</Key>
 			<Key ID="str_xp_must_be_in_sanct">
 				<Original>You must be in a XP Sanctuary to change your Habilities!</Original>
 				<English>You must be in a XP Sanctuary to change your Habilities!</English>
 				<Portuguese>Você precisa esta em um Santuário XP para mudar suas Habilidades!</Portuguese>
 				<Russian>Ты должен быть в Святилищи ОПЫТА для изменения Способностей!</Russian>
-				<Chinesesimp>You must be in a XP Sanctuary to change your Habilities!</Chinesesimp>
-				<Chinese>You must be in a XP Sanctuary to change your Habilities!</Chinese>
+				<Chinesesimp>你必须在 经验兑换 改变你的技能!</Chinesesimp>
+				<Chinese>你必须在 经验兑换 改变你的技能!</Chinese>
 			</Key>
 			<Key ID="str_xp_menu_see_other_hab">
 				<Original>Other player Habilities</Original>
 				<English>Other player Habilities</English>
 				<Portuguese>Habilidades de outro player</Portuguese>
 				<Russian>Способности других игроков</Russian>
-				<Chinesesimp>Other player Habilities</Chinesesimp>
-				<Chinese>Other player Habilities</Chinese>
+				<Chinesesimp>其他玩家的技能</Chinesesimp>
+				<Chinese>其他玩家的技能</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_sell_25">
 				<Original>+25% in Sell Prices (items)</Original>
 				<English>+25% in Sell Prices (items)</English>
 				<Portuguese>+25% no valor de Venda (itens)</Portuguese>
 				<Russian>+25% к Цене Продажи (предметы)</Russian>
-				<Chinesesimp>+25% in Sell Prices (items)</Chinesesimp>
-				<Chinese>+25% in Sell Prices (items)</Chinese>
+				<Chinesesimp>+25% 卖东西收入 (物品)</Chinesesimp>
+				<Chinese>+25% 卖东西收入 (物品)</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_faster_master_key">
 				<Original>Less Master Keys Cycles</Original>
 				<English>Less Master Keys Cycles</English>
 				<Portuguese>Menos Ciclos com as Chaves Mestra</Portuguese>
 				<Russian>Меньше Циклов для Взлома</Russian>
-				<Chinesesimp>Less Master Keys Cycles</Chinesesimp>
-				<Chinese>Less Master Keys Cycles</Chinese>
+				<Chinesesimp>减少开门工具前摇</Chinesesimp>
+				<Chinese>减少开门工具前摇</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_no_atm_rate">
 				<Original>No Rate on Base ATM</Original>
 				<English>No Rate on Base ATM</English>
 				<Portuguese>ATM de Base sem Taxa</Portuguese>
 				<Russian>Банкомат без Комиссии</Russian>
-				<Chinesesimp>No Rate on Base ATM</Chinesesimp>
-				<Chinese>No Rate on Base ATM</Chinese>
+				<Chinesesimp>基地ATM不限速率</Chinesesimp>
+				<Chinese>基地ATM不限速率</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_autolanding">
 				<Original>Allow Autolanding on Airports</Original>
 				<English>Allow Autolanding on Airports</English>
 				<Portuguese>Permitir Pouso Automático</Portuguese>
 				<Russian>Автоматическое приземление в Аэропортах</Russian>
-				<Chinesesimp>Allow Autolanding on Airports</Chinesesimp>
-				<Chinese>Allow Autolanding on Airports</Chinese>
+				<Chinesesimp>允许在机场使用自动降落</Chinesesimp>
+				<Chinese>允许在机场使用自动降落</Chinese>
 			</Key>
 			<Key ID="str_turr_set_target">
 				<Original>Set Target Type</Original>
 				<English>Set Target Type</English>
 				<Portuguese>Escolher Tipo de Alvo</Portuguese>
 				<Russian>Set Target Type</Russian>
-				<Chinesesimp>Set Target Type</Chinesesimp>
-				<Chinese>Set Target Type</Chinese>
+				<Chinesesimp>设置目标类型</Chinesesimp>
+				<Chinese>设置目标类型</Chinese>
 			</Key>
 			<Key ID="str_title_turr_target_type">
 				<Original>TARGET TYPE</Original>
 				<English>TARGET TYPE</English>
 				<Portuguese>TIPO DE ALVO</Portuguese>
 				<Russian>TARGET TYPE</Russian>
-				<Chinesesimp>TARGET TYPE</Chinesesimp>
-				<Chinese>TARGET TYPE</Chinese>
+				<Chinesesimp>目标类型</Chinesesimp>
+				<Chinese>目标类型</Chinese>
 			</Key>
 			<Key ID="str_tt_man">
 				<Original>Man</Original>
 				<English>Man</English>
 				<Portuguese>Homen</Portuguese>
 				<Russian>Man</Russian>
-				<Chinesesimp>Man</Chinesesimp>
-				<Chinese>Man</Chinese>
+				<Chinesesimp>人形物体</Chinesesimp>
+				<Chinese>人形物体</Chinese>
 			</Key>
 			<Key ID="str_tt_car">
 				<Original>Low Armor</Original>
 				<English>Low Armor</English>
 				<Portuguese>Baixa Armadura</Portuguese>
 				<Russian>Low Armor</Russian>
-				<Chinesesimp>Low Armor</Chinesesimp>
-				<Chinese>Low Armor</Chinese>
+				<Chinesesimp>车辆</Chinesesimp>
+				<Chinese>车辆</Chinese>
 			</Key>
 			<Key ID="str_tt_armor">
 				<Original>High Armor</Original>
 				<English>High Armor</English>
 				<Portuguese>Alta Armadura</Portuguese>
 				<Russian>High Armor</Russian>
-				<Chinesesimp>High Armor</Chinesesimp>
-				<Chinese>High Armor</Chinese>
+				<Chinesesimp>轻装甲</Chinesesimp>
+				<Chinese>轻装甲</Chinese>
 			</Key>
 			<Key ID="str_tt_harmor">
 				<Original>Heavy Armor</Original>
 				<English>Heavy Armor</English>
 				<Portuguese>Armadura Pesada</Portuguese>
 				<Russian>Heavy Armor</Russian>
-				<Chinesesimp>Heavy Armor</Chinesesimp>
-				<Chinese>Heavy Armor</Chinese>
+				<Chinesesimp>重装甲</Chinesesimp>
+				<Chinese>重装甲</Chinese>
 			</Key>
 			<Key ID="str_tt_air">
 				<Original>Air Vehicles</Original>
 				<English>Air Vehicles</English>
 				<Portuguese>Aéreos</Portuguese>
 				<Russian>Air Vehicles</Russian>
-				<Chinesesimp>Air Vehicles</Chinesesimp>
-				<Chinese>Air Vehicles</Chinese>
+				<Chinesesimp>空中目标</Chinesesimp>
+				<Chinese>空中目标</Chinese>
 			</Key>
 			<Key ID="str_testing_position">
 				<Original>Testing Position...</Original>
 				<English>Testing Position...</English>
 				<Portuguese>Testando Posição...</Portuguese>
 				<Russian>Testing Position...</Russian>
-				<Chinesesimp>Testing Position...</Chinesesimp>
-				<Chinese>Testing Position...</Chinese>
+				<Chinesesimp>正在检查投送位置...</Chinesesimp>
+				<Chinese>正在检查投送位置...</Chinese>
 			</Key>
 			<Key ID="str_position_ok">
 				<Original>Position Ok!</Original>
 				<English>Position Ok!</English>
 				<Portuguese>Posição Ok!</Portuguese>
 				<Russian>Position Ok!</Russian>
-				<Chinesesimp>Position Ok!</Chinesesimp>
-				<Chinese>Position Ok!</Chinese>
+				<Chinesesimp>投送位置可用!</Chinesesimp>
+				<Chinese>投送位置可用!</Chinese>
 			</Key>
 			<Key ID="str_rearm_veh">
 				<Original>Rearm at %1</Original>
 				<English>Rearm at %1</English>
 				<Portuguese>Rearmar em %1</Portuguese>
 				<Russian>Rearm at %1</Russian>
-				<Chinesesimp>Rearm at %1</Chinesesimp>
-				<Chinese>Rearm at %1</Chinese>
+				<Chinesesimp>使用 %1 重新补给弹药</Chinesesimp>
+				<Chinese>使用 %1 重新补给弹药</Chinese>
 			</Key>
 			<Key ID="str_refuel_veh">
 				<Original>Refuel at %1!</Original>
 				<English>Refuel at %1!</English>
 				<Portuguese>Reabastecer em %1!</Portuguese>
 				<Russian>Refuel at %1!</Russian>
-				<Chinesesimp>Refuel at %1!</Chinesesimp>
-				<Chinese>Refuel at %1!</Chinese>
+				<Chinesesimp>使用 %1 加油!</Chinesesimp>
+				<Chinese>使用 %1 加油!</Chinese>
 			</Key>
 			<Key ID="str_repair_veh">
 				<Original>Repair at %1!</Original>
 				<English>Repair at %1!</English>
 				<Portuguese>Reparar em %1!</Portuguese>
 				<Russian>Repair at %1!</Russian>
-				<Chinesesimp>Repair at %1!</Chinesesimp>
-				<Chinese>Repair at %1!</Chinese>
+				<Chinesesimp>使用 %1 维修!</Chinesesimp>
+				<Chinese>使用 %1 维修!</Chinese>
 			</Key>
 			<Key ID="str_service_done">
 				<Original>Service done, sir!</Original>
 				<English>Service done, sir!</English>
 				<Portuguese>Serviço feito, senhor!</Portuguese>
 				<Russian>Service done, sir!</Russian>
-				<Chinesesimp>Service done, sir!</Chinesesimp>
-				<Chinese>Service done, sir!</Chinese>
+				<Chinesesimp>老板,服务完成!</Chinesesimp>
+				<Chinese>老板,服务完成!</Chinese>
 			</Key>
 			<Key ID="str_near_denied_door">
 				<Original>Can't! You is near a denied door!</Original>
 				<English>Can't! You is near a denied door!</English>
 				<Portuguese>Não pode! Você esta perto de uma porta travada!</Portuguese>
 				<Russian>Can't! You is near a denied door!</Russian>
-				<Chinesesimp>Can't! You is near a denied door!</Chinesesimp>
-				<Chinese>Can't! You is near a denied door!</Chinese>
+				<Chinesesimp>不行!你附近的门拒绝了你!</Chinesesimp>
+				<Chinese>不行!你附近的门拒绝了你!</Chinese>
 			</Key>
 			<Key ID="str_cant_dnukem_wait_rearm">
 				<Original>Rearm: I need more %1 seconds!</Original>
 				<English>Rearm: I need more %1 seconds!</English>
 				<Portuguese>Rearmar: Eu preciso de mais %1 segundos!</Portuguese>
 				<Russian>Rearm: I need more %1 seconds!</Russian>
-				<Chinesesimp>Rearm: I need more %1 seconds!</Chinesesimp>
-				<Chinese>Rearm: I need more %1 seconds!</Chinese>
+				<Chinesesimp>补充弹药: 我需要 %1 秒!</Chinesesimp>
+				<Chinese>补充弹药: 我需要 %1 秒!</Chinese>
 			</Key>
 			<Key ID="str_cant_dnukem_wait_refuel">
 				<Original>Refuel: I need more %1 seconds!</Original>
 				<English>Refuel: I need more %1 seconds!</English>
 				<Portuguese>Reabastecer: Eu preciso de mais %1 segundos!</Portuguese>
 				<Russian>Refuel: I need more %1 seconds!</Russian>
-				<Chinesesimp>Refuel: I need more %1 seconds!</Chinesesimp>
-				<Chinese>Refuel: I need more %1 seconds!</Chinese>
+				<Chinesesimp>加油: 我需要 %1 秒!</Chinesesimp>
+				<Chinese>Refuel: 我需要 %1 秒!</Chinese>
 			</Key>
 			<Key ID="str_cant_dnukem_wait_repair">
 				<Original>Repair: I need more %1 seconds!</Original>
 				<English>Repair: I need more %1 seconds!</English>
 				<Portuguese>Reparar: Eu preciso de mais %1 segundos!</Portuguese>
 				<Russian>Repair: I need more %1 seconds!</Russian>
-				<Chinesesimp>Repair: I need more %1 seconds!</Chinesesimp>
-				<Chinese>Repair: I need more %1 seconds!</Chinese>
+				<Chinesesimp>修理: 我需要 %1 秒!</Chinesesimp>
+				<Chinese>修理: 我需要 %1 秒!</Chinese>
 			</Key>
 			<Key ID="str_xp_less_dnukem_delay_50">
 				<Original>50% Duke Nukem Delay</Original>
 				<English>50% Duke Nukem Delay</English>
 				<Portuguese>50% de espera pelo Duke Nukem</Portuguese>
 				<Russian>50% Duke Nukem Delay</Russian>
-				<Chinesesimp>50% Duke Nukem Delay</Chinesesimp>
-				<Chinese>50% Duke Nukem Delay</Chinese>
+				<Chinesesimp>Duke Nukem 冷却时间减少50%</Chinesesimp>
+				<Chinese>Duke Nukem 冷却时间减少50%</Chinese>
 			</Key>
 			<Key ID="str_xp_less_dnukem_delay_25">
 				<Original>25% Duke Nukem Delay</Original>
@@ -10871,40 +10871,40 @@
 				<English>Crime Hotel</English>
 				<Portuguese>Hotel do Crime</Portuguese>
 				<Russian>Crime Hotel</Russian>
-				<Chinesesimp>Crime Hotel</Chinesesimp>
-				<Chinese>Crime Hotel</Chinese>
+				<Chinesesimp>犯罪大酒店</Chinesesimp>
+				<Chinese>犯罪大酒店</Chinese>
 			</Key>
 			<Key ID="str_pmiss_hotel_cant_open">
 				<Original>Zarabell will not talk to you, kill more %1 criminals!</Original>
 				<English>Zarabell will not talk to you, kill more %1 criminals!</English>
 				<Portuguese>Zarabell não vai falar com você, mate mais %1 criminosos!</Portuguese>
 				<Russian>Zarabell will not talk to you, kill more %1 criminals!</Russian>
-				<Chinesesimp>Zarabell will not talk to you, kill more %1 criminals!</Chinesesimp>
-				<Chinese>Zarabell will not talk to you, kill more %1 criminals!</Chinese>
+				<Chinesesimp>Zarabell 不会跟你谈了, 再杀死 %1 个罪犯!</Chinesesimp>
+				<Chinese>Zarabell 不会跟你谈了, 再杀死 %1 个罪犯!</Chinese>
 			</Key>
 			<Key ID="str_xp_aura_light_lvl1">
 				<Original>Aura Light Lvl 1</Original>
 				<English>Aura Light Lvl 1</English>
 				<Portuguese>Aura Iluminada Lvl 1</Portuguese>
 				<Russian>Aura Light Lvl 1</Russian>
-				<Chinesesimp>Aura Light Lvl 1</Chinesesimp>
-				<Chinese>Aura Light Lvl 1</Chinese>
+				<Chinesesimp>光环亮度 Lvl 1</Chinesesimp>
+				<Chinese>光环亮度 Lvl 1</Chinese>
 			</Key>
 			<Key ID="str_xp_aura_light_lvl2">
 				<Original>Aura Light Lvl 2</Original>
 				<English>Aura Light Lvl 2</English>
 				<Portuguese>Aura Iluminada Lvl 2</Portuguese>
 				<Russian>Aura Light Lvl 2</Russian>
-				<Chinesesimp>Aura Light Lvl 2</Chinesesimp>
-				<Chinese>Aura Light Lvl 2</Chinese>
+				<Chinesesimp>光环亮度 Lvl 2</Chinesesimp>
+				<Chinese>光环亮度 Lvl 2</Chinese>
 			</Key>
 			<Key ID="str_food_burger">
 				<Original>Anti Burger</Original>
 				<English>Anti Burger</English>
 				<Portuguese>Anti Burger</Portuguese>
 				<Russian>Anti Burger</Russian>
-				<Chinesesimp>Anti Burger</Chinesesimp>
-				<Chinese>Anti Burger</Chinese>
+				<Chinesesimp>反装汉堡</Chinesesimp>
+				<Chinese>反装汉堡</Chinese>
 			</Key>
 			<Key ID="str_buy_veh_wait">
 				<Original>You need to wait more %1 seconds before a spawn liberates!</Original>
@@ -10927,104 +10927,104 @@
 				<English>SELECT A BASE TO RESTORE</English>
 				<Portuguese>SELECIONE UMA BASE PARA REVIVER</Portuguese>
 				<Russian>SELECT A BASE TO RESTORE</Russian>
-				<Chinesesimp>SELECT A BASE TO RESTORE</Chinesesimp>
-				<Chinese>SELECT A BASE TO RESTORE</Chinese>
+				<Chinesesimp>选择一个基地恢复</Chinesesimp>
+				<Chinese>选择一个基地恢复</Chinese>
 			</Key>
 			<Key ID="str_menu_revive_a_base">
 				<Original>Revive a Dead Base</Original>
 				<English>Revive a Dead Base</English>
 				<Portuguese>Reviver uma Base Deletada</Portuguese>
 				<Russian>Revive a Dead Base</Russian>
-				<Chinesesimp>Revive a Dead Base</Chinesesimp>
-				<Chinese>Revive a Dead Base</Chinese>
+				<Chinesesimp>接收一个被摧毁的基地</Chinesesimp>
+				<Chinese>接收一个被摧毁的基地</Chinese>
 			</Key>
 			<Key ID="str_cant_wall_near_turret">
 				<Original>You can't! There is a near turret.</Original>
 				<English>You can't! There is a near turret.</English>
 				<Portuguese>Você não pode! Existe uma turreta por perto.</Portuguese>
 				<Russian>You can't! There is a near turret.</Russian>
-				<Chinesesimp>You can't! There is a near turret.</Chinesesimp>
-				<Chinese>You can't! There is a near turret.</Chinese>
+				<Chinesesimp>不能这么做! 离炮塔太近了.</Chinesesimp>
+				<Chinese>不能这么做! 离炮塔太近了.</Chinese>
 			</Key>
 			<Key ID="str_pmiss_militar_base">
 				<Original>Militar Base</Original>
 				<English>Militar Base</English>
 				<Portuguese>Base Militar</Portuguese>
 				<Russian>Militar Base</Russian>
-				<Chinesesimp>Militar Base</Chinesesimp>
-				<Chinese>Militar Base</Chinese>
+				<Chinesesimp>军事基地</Chinesesimp>
+				<Chinese>军事基地</Chinese>
 			</Key>
 			<Key ID="str_xray_item_name">
 				<Original>X Ray Machine</Original>
 				<English>X Ray Machine</English>
 				<Portuguese>Maquina de Raio X</Portuguese>
 				<Russian>X Ray Machine</Russian>
-				<Chinesesimp>X Ray Machine</Chinesesimp>
-				<Chinese>X Ray Machine</Chinese>
+				<Chinesesimp>X光机</Chinesesimp>
+				<Chinese>X光机</Chinese>
 			</Key>
 			<Key ID="str_stop_xray">
 				<Original>Stop X Ray Machine</Original>
 				<English>Stop X Ray Machine</English>
 				<Portuguese>Parar Raio X</Portuguese>
 				<Russian>Stop X Ray Machine</Russian>
-				<Chinesesimp>Stop X Ray Machine</Chinesesimp>
-				<Chinese>Stop X Ray Machine</Chinese>
+				<Chinesesimp>停止X光机</Chinesesimp>
+				<Chinese>停止X光机</Chinese>
 			</Key>
 			<Key ID="str_xray_no_weapon">
 				<Original>You can't be holding a weapon to use the x ray!</Original>
 				<English>You can't be holding a weapon to use the x ray!</English>
 				<Portuguese>Você não pode estar segurando uma arma para usar o raio x!</Portuguese>
 				<Russian>You can't be holding a weapon to use the x ray!</Russian>
-				<Chinesesimp>You can't be holding a weapon to use the x ray!</Chinesesimp>
-				<Chinese>You can't be holding a weapon to use the x ray!</Chinese>
+				<Chinesesimp>拿着武器可没法使用X光机!</Chinesesimp>
+				<Chinese>拿着武器可没法使用X光机!</Chinese>
 			</Key>
 			<Key ID="str_count_turrets">
 				<Original>Count Turrets</Original>
 				<English>Count Turrets</English>
 				<Portuguese>Contar Turretas</Portuguese>
 				<Russian>Count Turrets</Russian>
-				<Chinesesimp>Count Turrets</Chinesesimp>
-				<Chinese>Count Turrets</Chinese>
+				<Chinesesimp>炮塔计数</Chinesesimp>
+				<Chinese>炮塔计数</Chinese>
 			</Key>
 			<Key ID="str_count_turretsadm">
 				<Original>Count Turrets (Adm)</Original>
 				<English>Count Turrets (Adm)</English>
 				<Portuguese>Contar Turretas (Adm)</Portuguese>
 				<Russian>Count Turrets (Adm)</Russian>
-				<Chinesesimp>Count Turrets (Adm)</Chinesesimp>
-				<Chinese>Count Turrets(Adm)</Chinese>
+				<Chinesesimp>炮塔计数 (Adm)</Chinesesimp>
+				<Chinese>炮塔计数 (Adm)</Chinese>
 			</Key>
 			<Key ID="str_menu22_make_class_ad">
 				<Original>Make a Classified Ad</Original>
 				<English>Make a Classified Ad</English>
 				<Portuguese>Fazer um Classificado</Portuguese>
 				<Russian>Make a Classified Ad</Russian>
-				<Chinesesimp>Make a Classified Ad</Chinesesimp>
-				<Chinese>Make a Classified Ad</Chinese>
+				<Chinesesimp>Make a 机密信息</Chinesesimp>
+				<Chinese>Make a 机密信息</Chinese>
 			</Key>
 			<Key ID="str_option_true_class_ad">
 				<Original>True Classified Ad</Original>
 				<English>True Classified Ad</English>
 				<Portuguese>Classificado Verdadeiro</Portuguese>
 				<Russian>True Classified Ad</Russian>
-				<Chinesesimp>True Classified Ad</Chinesesimp>
-				<Chinese>True Classified Ad</Chinese>
+				<Chinesesimp>真正的机密信息</Chinesesimp>
+				<Chinese>真正的机密信息</Chinese>
 			</Key>
 			<Key ID="str_option_false_class_ad">
 				<Original>False Classified Ad</Original>
 				<English>False Classified Ad</English>
 				<Portuguese>Classificado Falso</Portuguese>
 				<Russian>False Classified Ad</Russian>
-				<Chinesesimp>False Classified Ad</Chinesesimp>
-				<Chinese>False Classified Ad</Chinese>
+				<Chinesesimp>假的机密信息</Chinesesimp>
+				<Chinese>假的机密信息</Chinese>
 			</Key>
 			<Key ID="str_option_remove_class_ad">
 				<Original>Remove False Classified Ad</Original>
 				<English>Remove False Classified Ad</English>
 				<Portuguese>Remover Classificado Falso</Portuguese>
 				<Russian>Remove False Classified Ad</Russian>
-				<Chinesesimp>Remove False Classified Ad</Chinesesimp>
-				<Chinese>Remove False Classified Ad</Chinese>
+				<Chinesesimp>移除假的机密信息</Chinesesimp>
+				<Chinese>移除假的机密信息</Chinese>
 			</Key>
 			<Key ID="str_class_ad_select">
 				<Original>SELECT A OPTION</Original>
@@ -11039,8 +11039,8 @@
 				<English>CONFIRM YOU WANT TO SELL THIS VEHICLE?</English>
 				<Portuguese>CONFIRMA A VENDA DESTE VEÍCULO?</Portuguese>
 				<Russian>CONFIRM YOU WANT TO SELL THIS VEHICLE?</Russian>
-				<Chinesesimp>CONFIRM YOU WANT TO SELL THIS VEHICLE?</Chinesesimp>
-				<Chinese>CONFIRM YOU WANT TO SELL THIS VEHICLE?</Chinese>
+				<Chinesesimp>你确定你要卖了这辆车?</Chinesesimp>
+				<Chinese>你确定你要卖了这辆车?</Chinese>
 			</Key>
 			<Key ID="str_class_ad_false_confirm">
 				<Original>CONFIRM YOU WANT TO (FAKE) SELL THIS VEHICLE?</Original>
@@ -11103,40 +11103,40 @@
 				<English>The vehicle is not ok!</English>
 				<Portuguese>O veículo não esta ok!</Portuguese>
 				<Russian>The vehicle is not ok!</Russian>
-				<Chinesesimp>The vehicle is not ok!</Chinesesimp>
-				<Chinese>The vehicle is not ok!</Chinese>
+				<Chinesesimp>这车不行了!</Chinesesimp>
+				<Chinese>这车不行了!</Chinese>
 			</Key>
 			<Key ID="str_class_ad_remove_false">
 				<Original>REMOVE THE FALSE AD FOR THIS VEHICLE?</Original>
 				<English>REMOVE THE FALSE AD FOR THIS VEHICLE?</English>
 				<Portuguese>REMOVER O CLASSIFICADO FALSO PARA ESTE VEÍCULO?</Portuguese>
 				<Russian>REMOVE THE FALSE AD FOR THIS VEHICLE?</Russian>
-				<Chinesesimp>REMOVE THE FALSE AD FOR THIS VEHICLE?</Chinesesimp>
-				<Chinese>REMOVE THE FALSE AD FOR THIS VEHICLE?</Chinese>
+				<Chinesesimp>要从这辆车上移除虚假的机密信息吗?</Chinesesimp>
+				<Chinese>要从这辆车上移除虚假的机密信息吗?</Chinese>
 			</Key>
 			<Key ID="str_class_ad_false_removed">
 				<Original>The false ad was removed!</Original>
 				<English>The false ad was removed!</English>
 				<Portuguese>O anúncio falso foi removido!</Portuguese>
 				<Russian>The false ad was removed!</Russian>
-				<Chinesesimp>The false ad was removed!</Chinesesimp>
-				<Chinese>The false ad was removed!</Chinese>
+				<Chinesesimp>假信息被移除了</Chinesesimp>
+				<Chinese>假信息被移除了</Chinese>
 			</Key>
 			<Key ID="str_class_ad_trader">
 				<Original>See Classified Ads</Original>
 				<English>See Classified Ads</English>
 				<Portuguese>Ver Classificados</Portuguese>
 				<Russian>See Classified Ads</Russian>
-				<Chinesesimp>See Classified Ads</Chinesesimp>
-				<Chinese>See Classified Ads</Chinese>
+				<Chinesesimp>查看机密信息</Chinesesimp>
+				<Chinese>查看机密信息</Chinese>
 			</Key>
 			<Key ID="str_class_ads">
 				<Original>Classified Ads</Original>
 				<English>Classified Ads</English>
 				<Portuguese>Classificados</Portuguese>
 				<Russian>Classified Ads</Russian>
-				<Chinesesimp>Classified Ads</Chinesesimp>
-				<Chinese>Classified Ads</Chinese>
+				<Chinesesimp>机密信息</Chinesesimp>
+				<Chinese>机密信息</Chinese>
 			</Key>
 			<Key ID="str_cat_see_vehicles">
 				<Original>Vehicles Classified Ads</Original>
@@ -11159,8 +11159,8 @@
 				<English>Cancel a Vehicle Classified Ad</English>
 				<Portuguese>Cancelar um Classificado de Veículo</Portuguese>
 				<Russian>Cancel a Vehicle Classified Ad</Russian>
-				<Chinesesimp>Cancel a Vehicle Classified Ad</Chinesesimp>
-				<Chinese>Cancel a Vehicle Classified Ad</Chinese>
+				<Chinesesimp>取消一个机密信息载具</Chinesesimp>
+				<Chinese>取消一个机密信息载具</Chinese>
 			</Key>
 			<Key ID="str_class_ad_vehicle_done">
 				<Original>%1 bought your %4 vehicle classified ad\n"%2" for $%3!</Original>
@@ -11191,8 +11191,8 @@
 				<English>SELECT AN ACTION</English>
 				<Portuguese>SELECIONE UM AÇÃO</Portuguese>
 				<Russian>SELECT AN ACTION</Russian>
-				<Chinesesimp>SELECT AN ACTION</Chinesesimp>
-				<Chinese>SELECT AN ACTION</Chinese>
+				<Chinesesimp>选择操作</Chinesesimp>
+				<Chinese>选择操作</Chinese>
 			</Key>
 			<Key ID="str_cad_veh_select">
 				<Original>SELECT A VEHICLE CALSSIFIED ADD</Original>
@@ -11207,16 +11207,16 @@
 				<English>CONFIRME PURCHASE</English>
 				<Portuguese>CONFIRME A COMPRA</Portuguese>
 				<Russian>CONFIRME PURCHASE</Russian>
-				<Chinesesimp>CONFIRME PURCHASE</Chinesesimp>
-				<Chinese>CONFIRME PURCHASE</Chinese>
+				<Chinesesimp>确认购买</Chinesesimp>
+				<Chinese>确认购买</Chinese>
 			</Key>
 			<Key ID="str_cad_veh_confirm_remove">
 				<Original>CONFIRM CANCELLATION</Original>
 				<English>CONFIRM CANCELLATION</English>
 				<Portuguese>CONFIRME O CANCELAMENTO</Portuguese>
 				<Russian>CONFIRM CANCELLATION</Russian>
-				<Chinesesimp>CONFIRM CANCELLATION</Chinesesimp>
-				<Chinese>CONFIRM CANCELLATION</Chinese>
+				<Chinesesimp>确认取消</Chinesesimp>
+				<Chinese>确认取消</Chinese>
 			</Key>
 			<Key ID="str_class_ad_sell_items">
 				<Original>Create Items Classified Ad</Original>
@@ -11311,8 +11311,8 @@
 				<English>See Players Names</English>
 				<Portuguese>Ver Nomes de um Player</Portuguese>
 				<Russian>See Players Names</Russian>
-				<Chinesesimp>See Players Names</Chinesesimp>
-				<Chinese>See Players Names</Chinese>
+				<Chinesesimp>查看玩家名</Chinesesimp>
+				<Chinese>查看玩家名</Chinese>
 			</Key>
 			<Key ID="str_player_names_last_use">
 				<Original>PLAYER NAMES AND LAST USE DATE</Original>
@@ -11327,72 +11327,72 @@
 				<English>Car Graveyard</English>
 				<Portuguese>Cemitério de Carros</Portuguese>
 				<Russian>Car Graveyard</Russian>
-				<Chinesesimp>Car Graveyard</Chinesesimp>
-				<Chinese>Car Graveyard</Chinese>
+				<Chinesesimp>汽车坟场</Chinesesimp>
+				<Chinese>汽车坟场</Chinese>
 			</Key>
 			<Key ID="str_item_magnet">
 				<Original>Items Magnet</Original>
 				<English>Items Magnet</English>
 				<Portuguese>Imã de Itens</Portuguese>
 				<Russian>Items Magnet</Russian>
-				<Chinesesimp>Items Magnet</Chinesesimp>
-				<Chinese>Items Magnet</Chinese>
+				<Chinesesimp>物品吸铁石</Chinesesimp>
+				<Chinese>物品吸铁石</Chinese>
 			</Key>
 			<Key ID="str_item_magnet_off">
 				<Original>Item Magnet Off</Original>
 				<English>Item Magnet Off</English>
 				<Portuguese>Desligar Imã de Itens</Portuguese>
 				<Russian>Item Magnet Off</Russian>
-				<Chinesesimp>Item Magnet Off</Chinesesimp>
-				<Chinese>Item Magnet Off</Chinese>
+				<Chinesesimp>物品吸铁石关闭</Chinesesimp>
+				<Chinese>物品吸铁石关闭</Chinese>
 			</Key>
 			<Key ID="str_item_magnet_recharge">
 				<Original>Magnet Recharge</Original>
 				<English>Magnet Recharge</English>
 				<Portuguese>Recarga Magnética</Portuguese>
 				<Russian>Magnet Recharge</Russian>
-				<Chinesesimp>Magnet Recharge</Chinesesimp>
-				<Chinese>Magnet Recharge</Chinese>
+				<Chinesesimp>物品吸铁石充能</Chinesesimp>
+				<Chinese>物品吸铁石充能</Chinese>
 			</Key>
 			<Key ID="str_limit_reached_twop">
 				<Original>Limit Reached:</Original>
 				<English>Limit Reached:</English>
 				<Portuguese>Limite Atingido:</Portuguese>
 				<Russian>Limit Reached:</Russian>
-				<Chinesesimp>Limit Reached:</Chinesesimp>
-				<Chinese>Limit Reached:</Chinese>
+				<Chinesesimp>到达限制:</Chinesesimp>
+				<Chinese>到达限制:</Chinese>
 			</Key>
 			<Key ID="str_lars_is_dead">
 				<Original>Lazarus is dead! Lazarus is dead!</Original>
 				<English>Lazarus is dead! Lazarus is dead!</English>
 				<Portuguese>Lazarus esta morto! Lazarus esta morto!</Portuguese>
 				<Russian>Lazarus is dead! Lazarus is dead!</Russian>
-				<Chinesesimp>Lazarus is dead! Lazarus is dead!</Chinesesimp>
-				<Chinese>Lazarus is dead! Lazarus is dead!</Chinese>
+				<Chinesesimp>Lazarus 死了! Lazarus 死了!</Chinesesimp>
+				<Chinese>Lazarus 死了! Lazarus 死了!</Chinese>
 			</Key>
 			<Key ID="str_lars_found_in_city">
 				<Original>Lazarus was seen in %1! Take care!</Original>
 				<English>Lazarus was seen in %1! Take care!</English>
 				<Portuguese>Lazarus foi visto em %1! Tome cuidado!</Portuguese>
 				<Russian>Lazarus was seen in %1! Take care!</Russian>
-				<Chinesesimp>Lazarus was seen in %1! Take care!</Chinesesimp>
-				<Chinese>Lazarus was seen in %1! Take care!</Chinese>
+				<Chinesesimp>Lazarus 在 %1! 小心点!</Chinesesimp>
+				<Chinese>Lazarus 在 %1! 小心点!</Chinese>
 			</Key>
 			<Key ID="str_lars_scape">
 				<Original>Lazarus is trying to scape!</Original>
 				<English>Lazarus is trying to scape!</English>
 				<Portuguese>Lazarus esta tentando fugir!</Portuguese>
 				<Russian>Lazarus is trying to scape!</Russian>
-				<Chinesesimp>Lazarus is trying to scape!</Chinesesimp>
-				<Chinese>Lazarus is trying to scape!</Chinese>
+				<Chinesesimp>Lazarus 尝试逃跑!</Chinesesimp>
+				<Chinese>Lazarus 尝试逃跑!</Chinese>
 			</Key>
 			<Key ID="str_pmiss_training_center">
 				<Original>Training Center</Original>
 				<English>Training Center</English>
 				<Portuguese>Centro de Treinamento</Portuguese>
 				<Russian>Training Center</Russian>
-				<Chinesesimp>Training Center</Chinesesimp>
-				<Chinese>Training Center</Chinese>
+				<Chinesesimp>训练中心</Chinesesimp>
+				<Chinese>训练中心</Chinese>
 			</Key>
 			<Key ID="str_dome_radius">
 				<Original>Set Dome Radius</Original>
@@ -11415,8 +11415,8 @@
 				<English>Nuclear Island</English>
 				<Portuguese>Ilha Nuclear</Portuguese>
 				<Russian>Nuclear Island</Russian>
-				<Chinesesimp>Nuclear Island</Chinesesimp>
-				<Chinese>Nuclear Island</Chinese>
+				<Chinesesimp>核工厂</Chinesesimp>
+				<Chinese>核工厂</Chinese>
 			</Key>
 			<Key ID="str_xp_perks_rise_spot_limit">
 				<Original>%1 on Spot Limit</Original>
@@ -11431,8 +11431,8 @@
 				<English>%1X Air Vehicles Resistence</English>
 				<Portuguese>%1X Resistência em Aéreos</Portuguese>
 				<Russian>%1X Air Vehicles Resistence</Russian>
-				<Chinesesimp>%1X Air Vehicles Resistence</Chinesesimp>
-				<Chinese>%1X Air Vehicles Resistence</Chinese>
+				<Chinesesimp>%1X 空中载具抗性</Chinesesimp>
+				<Chinese>%1X 空中载具抗性</Chinese>
 			</Key>
 			<Key ID="str_pmiss2_charlie_outpost">
 				<Original>Charlie Outpost</Original>
@@ -11455,16 +11455,16 @@
 				<English>Legalized</English>
 				<Portuguese>Legalizado</Portuguese>
 				<Russian>Legalized</Russian>
-				<Chinesesimp>Legalized</Chinesesimp>
-				<Chinese>Legalized</Chinese>
+				<Chinesesimp>合法的</Chinesesimp>
+				<Chinese>合法的</Chinese>
 			</Key>
 			<Key ID="str_title_vg_group_type">
 				<Original>SELECT GROUP OF VEHICLES</Original>
 				<English>SELECT GROUP OF VEHICLES</English>
 				<Portuguese>SELECIONE O GRUPO DE VEÍCULOS</Portuguese>
 				<Russian>SELECT GROUP OF VEHICLES</Russian>
-				<Chinesesimp>SELECT GROUP OF VEHICLES</Chinesesimp>
-				<Chinese>SELECT GROUP OF VEHICLES</Chinese>
+				<Chinesesimp>选择一组载具</Chinesesimp>
+				<Chinese>选择一组载具</Chinese>
 			</Key>
 			<Key ID="str_title_vg_legal_type">
 				<Original>SELECT LEGAL STATE</Original>
@@ -11479,8 +11479,8 @@
 				<English>All Vehicles</English>
 				<Portuguese>Todos os Veículos</Portuguese>
 				<Russian>All Vehicles</Russian>
-				<Chinesesimp>All Vehicles</Chinesesimp>
-				<Chinese>All Vehicles</Chinese>
+				<Chinesesimp>所有载具</Chinesesimp>
+				<Chinese>所有载具</Chinese>
 			</Key>
 			<Key ID="str_tire_move_tire">
 				<Original>Move Magus Barrier</Original>
@@ -11495,8 +11495,8 @@
 				<English>Press ENTER to release!</English>
 				<Portuguese>Pressione ENTER para colocar!</Portuguese>
 				<Russian>Press ENTER to release!</Russian>
-				<Chinesesimp>Press ENTER to release!</Chinesesimp>
-				<Chinese>Press ENTER to release!</Chinese>
+				<Chinesesimp>按 ENTER 释放!</Chinesesimp>
+				<Chinese>按 ENTER 释放!</Chinese>
 			</Key>
 			<Key ID="str_pmiss2_charlie_outpost_final">
 				<Original>Charlie Final</Original>
@@ -11511,8 +11511,8 @@
 				<English>The items must be above your head (shift+e)!</English>
 				<Portuguese>Os itens precisam estar acima de sua cabeça (shift+e)!</Portuguese>
 				<Russian>The items must be above your head (shift+e)!</Russian>
-				<Chinesesimp>The items must be above your head (shift+e)!</Chinesesimp>
-				<Chinese>The items must be above your head (shift+e)!</Chinese>
+				<Chinesesimp>你必须把这个东西顶在头上 (shift+e)!</Chinesesimp>
+				<Chinese>你必须把这个东西顶在头上 (shift+e)!</Chinese>
 			</Key>
 			<Key ID="str_class_ad_sell_alti">
 				<Original>Create Items Classified Ad (alt+i)</Original>
@@ -11535,8 +11535,8 @@
 				<English>Off</English>
 				<Portuguese>Desligado</Portuguese>
 				<Russian>Off</Russian>
-				<Chinesesimp>Off</Chinesesimp>
-				<Chinese>Off</Chinese>
+				<Chinesesimp>关闭</Chinesesimp>
+				<Chinese>关闭</Chinese>
 			</Key>
 			<Key ID="str_all_c4_marks">
 				<Original>All ctrl+4 Marks</Original>
@@ -11551,40 +11551,40 @@
 				<English>CHOOSE MAXIMUM DISTANCE</English>
 				<Portuguese>ESCOLHA A DISTÂNICA MÁXIMA</Portuguese>
 				<Russian>CHOOSE MAXIMUM DISTANCE</Russian>
-				<Chinesesimp>CHOOSE MAXIMUM DISTANCE</Chinesesimp>
-				<Chinese>CHOOSE MAXIMUM DISTANCE</Chinese>
+				<Chinesesimp>选择最大距离</Chinesesimp>
+				<Chinese>选择最大距离</Chinese>
 			</Key>
 			<Key ID="str_item_newspaper">
 				<Original>Newspaper</Original>
 				<English>Newspaper</English>
 				<Portuguese>Jornal</Portuguese>
 				<Russian>Newspaper</Russian>
-				<Chinesesimp>Newspaper</Chinesesimp>
-				<Chinese>Newspaper</Chinese>
+				<Chinesesimp>报纸</Chinesesimp>
+				<Chinese>报纸</Chinese>
 			</Key>
 			<Key ID="str_need_go_classad">
 				<Original>Please go to the Classified Ads Trader!</Original>
 				<English>Please go to the Classified Ads Trader!</English>
 				<Portuguese>Por favor vá para o Vendedor de Classificados!</Portuguese>
 				<Russian>Please go to the Classified Ads Trader!</Russian>
-				<Chinesesimp>Please go to the Classified Ads Trader!</Chinesesimp>
-				<Chinese>Please go to the Classified Ads Trader!</Chinese>
+				<Chinesesimp>请去找机密信息交易者!</Chinesesimp>
+				<Chinese>请去找机密信息交易者!</Chinese>
 			</Key>
 			<Key ID="str_spawn_zombie_cant_time">
 				<Original>Wait %1 seconds before spawn zombies again.</Original>
 				<English>Wait %1 seconds before spawn zombies again.</English>
 				<Portuguese>Espere %1 segundos antes de spawnar zumbis de novo.</Portuguese>
 				<Russian>Wait %1 seconds before spawn zombies again.</Russian>
-				<Chinesesimp>Wait %1 seconds before spawn zombies again.</Chinesesimp>
-				<Chinese>Wait %1 seconds before spawn zombies again.</Chinese>
+				<Chinesesimp>在再次生成丧尸前等待 %1 秒.</Chinesesimp>
+				<Chinese>在再次生成丧尸前等待 %1 秒.</Chinese>
 			</Key>
 			<Key ID="str_spawn_zombie_cant_much">
 				<Original>You can't! Too much zombies near.</Original>
 				<English>You can't! Too much zombies near.</English>
 				<Portuguese>Você não pode! Muitos zumbis por perto.</Portuguese>
 				<Russian>You can't! Too much zombies near.</Russian>
-				<Chinesesimp>You can't! Too much zombies near.</Chinesesimp>
-				<Chinese>You can't! Too much zombies near.</Chinese>
+				<Chinesesimp>不能这么做! 附近的丧尸太多了.</Chinesesimp>
+				<Chinese>不能这么做! 附近的丧尸太多了.</Chinese>
 			</Key>
 			<Key ID="str_pmiss_cartel">
 				<Original>Cartel</Original>
@@ -11599,8 +11599,8 @@
 				<English>The gate(s) will close in %1 seconds!</English>
 				<Portuguese>O(s) portões(s) vão fechar em %1 segundos!</Portuguese>
 				<Russian>The gate(s) will close in %1 seconds!</Russian>
-				<Chinesesimp>The gate(s) will close in %1 seconds!</Chinesesimp>
-				<Chinese>The gate(s) will close in %1 seconds!</Chinese>
+				<Chinesesimp>门将会在 %1 秒后关闭!</Chinesesimp>
+				<Chinese>>门将会在 %1 秒后关闭!</Chinese>
 			</Key>
 			<Key ID="str_pmiss_olympic_base">
 				<Original>Olympic Base</Original>
@@ -11615,16 +11615,16 @@
 				<English>Miscellaneous Items (alt+i)</English>
 				<Portuguese>Items Variados (alt+i)</Portuguese>
 				<Russian>Miscellaneous Items (alt+i)</Russian>
-				<Chinesesimp>Miscellaneous Items (alt+i)</Chinesesimp>
-				<Chinese>Miscellaneous Items (alt+i)</Chinese>
+				<Chinesesimp>杂项物品 (alt+i)</Chinesesimp>
+				<Chinese>杂项物品 (alt+i)</Chinese>
 			</Key>
 			<Key ID="str_cad_alti_journal_discount">
 				<Original>%1%2 discount on next items buy!</Original>
 				<English>%1%2 discount on next items buy!</English>
 				<Portuguese>Desconto de %1%2 na próxima compra de itens!</Portuguese>
 				<Russian>%1%2 discount on next items buy!</Russian>
-				<Chinesesimp>%1%2 discount on next items buy!</Chinesesimp>
-				<Chinese>%1%2 discount on next items buy!</Chinese>
+				<Chinesesimp>下次购买时享受 %1%2 折扣!</Chinesesimp>
+				<Chinese>下次购买时享受 %1%2 折扣!</Chinese>
 			</Key>
 			<Key ID="str_no_coupon_found">
 				<Original>No coupon found...</Original>
@@ -11647,24 +11647,24 @@
 				<English>Uber Back Pack</English>
 				<Portuguese>Uber Back Pack</Portuguese>
 				<Russian>Uber Back Pack</Russian>
-				<Chinesesimp>Uber Back Pack</Chinesesimp>
-				<Chinese>Uber Back Pack</Chinese>
+				<Chinesesimp>喷气背包</Chinesesimp>
+				<Chinese>喷气背包</Chinese>
 			</Key>
 			<Key ID="str_upack_select_destine">
 				<Original>Select Destine on Map!</Original>
 				<English>Select Destine on Map!</English>
 				<Portuguese>Selecione o Destino no Mapa!</Portuguese>
 				<Russian>Select Destine on Map!</Russian>
-				<Chinesesimp>Select Destine on Map!</Chinesesimp>
-				<Chinese>Select Destine on Map!</Chinese>
+				<Chinesesimp>在地图上选择一个目的地!</Chinesesimp>
+				<Chinese>在地图上选择一个目的地!</Chinese>
 			</Key>
 			<Key ID="str_upack_cant_above">
 				<Original>You can't take off here!</Original>
 				<English>You can't take off here!</English>
 				<Portuguese>Você não pode decolar aqui!</Portuguese>
 				<Russian>You can't take off here!</Russian>
-				<Chinesesimp>You can't take off here!</Chinesesimp>
-				<Chinese>You can't take off here!</Chinese>
+				<Chinesesimp>你不能在这里起飞!</Chinesesimp>
+				<Chinese>你不能在这里起飞!</Chinese>
 			</Key>
 			<Key ID="str_item_big_floor_200">
 				<Original>Big Floor 200 meters</Original>
@@ -11703,24 +11703,24 @@
 				<English>Can't damage in base.</English>
 				<Portuguese>Não pode dar dano na base.</Portuguese>
 				<Russian>Can't damage in base.</Russian>
-				<Chinesesimp>Can't damage in base.</Chinesesimp>
-				<Chinese>Can't damage in base.</Chinese>
+				<Chinesesimp>无法伤害在基地中的人.</Chinesesimp>
+				<Chinese>无法伤害在基地中的人.</Chinese>
 			</Key>
 			<Key ID="str_bdam_inbase_victim">
 				<Original>You is protected in base.</Original>
 				<English>You is protected in base.</English>
 				<Portuguese>Você esta protegido na base.</Portuguese>
 				<Russian>You is protected in base.</Russian>
-				<Chinesesimp>You is protected in base.</Chinesesimp>
-				<Chinese>You is protected in base.</Chinese>
+				<Chinesesimp>你现在被基地保护了.</Chinesesimp>
+				<Chinese>你现在被基地保护了.</Chinese>
 			</Key>
 			<Key ID="str_bdam_outbase_victim">
 				<Original>Can't hurt you from base.</Original>
 				<English>Can't hurt you from base.</English>
 				<Portuguese>Não pode te dar dano da base.</Portuguese>
 				<Russian>Can't hurt you from base.</Russian>
-				<Chinesesimp>Can't hurt you from base.</Chinesesimp>
-				<Chinese>Can't hurt you from base.</Chinese>
+				<Chinesesimp>无法在基地内伤害你.</Chinesesimp>
+				<Chinese>无法在基地内伤害你.</Chinese>
 			</Key>
 			<Key ID="str_free_c">
 				<Original></Original>
