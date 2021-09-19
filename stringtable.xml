@@ -11723,77 +11723,77 @@
 				<Chinese>无法在基地内伤害你.</Chinese>
 			</Key>
 			<Key ID="str_item_atm_fix">
-                                <Original>Dead ATM Fix</Original>
-                                <English>Dead ATM Fix</English>
-                                <Portuguese>Concerto de ATM Desativado</Portuguese>
-                                <Russian>Dead ATM Fix</Russian>
-                                <Chinesesimp>修复毁坏的ATM机</Chinesesimp>
-                                <Chinese>修复毁坏的ATM机</Chinese>
-                        </Key>
-                        <Key ID="str_show_map_icons_on_off">
-                                <Original>Select Map Icons</Original>
-                                <English>Select Map Icons</English>
-                                <Portuguese>Selecione Icones no Mapa</Portuguese>
-                                <Russian>Select Map Icons</Russian>
-                                <Chinesesimp>显示/隐藏地图上的图标</Chinesesimp>
-                                <Chinese>显示/隐藏地图上的图标</Chinese>
-                        </Key>
-                        <Key ID="str_smi_missions">
-                                <Original>Missions (%1)</Original>
-                                <English>Missions (%1)</English>
-                                <Portuguese>Missões (%1)</Portuguese>
-                                <Russian>Missions (%1)</Russian>
-                                <Chinesesimp>任务 (%1)</Chinesesimp>
-                                <Chinese>任务 (%1)</Chinese>
-                        </Key>
-                        <Key ID="str_smi_player_stuff">
-                                <Original>Player Stuff (%1)</Original>
-                                <English>Player Stuff (%1)</English>
-                                <Portuguese>Coisas do Player (%1)</Portuguese>
-                                <Russian>Player Stuff (%1)</Russian>
-                                <Chinesesimp>玩家的东西 (%1)</Chinesesimp>
-                                <Chinese>玩家的东西 (%1)</Chinese>
-                        </Key>
-                        <Key ID="str_smi_other_stuff">
-                                <Original>Other (%1)</Original>
-                                <English>Other (%1)</English>
-                                <Portuguese>Outros (%1)</Portuguese>
-                                <Russian>Other (%1)</Russian>
-                                <Chinesesimp>其他 (%1)</Chinesesimp>
-                                <Chinese>其他 (%1)</Chinese>
-                        </Key>
-                        <Key ID="str_title_map_icons">
-                                <Original>SELECT MAP ICONS TO SHOW</Original>
-                                <English>SELECT MAP ICONS TO SHOW</English>
-                                <Portuguese>SELECIONE ICONES DO MAPA PARA MOSTRAR</Portuguese>
-                                <Russian>SELECT MAP ICONS TO SHOW</Russian>
-                                <Chinesesimp>选择要显示在地图上的图标</Chinesesimp>
-                                <Chinese>选择要显示在地图上的图标</Chinese>
-                        </Key>
-                        <Key ID="str_smi_units">
-                                <Original>Units and Zombies (%1)</Original>
-                                <English>Units and Zombies (%1)</English>
-                                <Portuguese>Unidades e Zumbis (%1)</Portuguese>
-                                <Russian>Units and Zombies (%1)</Russian>
-                                <Chinesesimp>丧尸和单位 (%1)</Chinesesimp>
-                                <Chinese>丧尸和单位 (%1)</Chinese>
-                        </Key>
-                        <Key ID="str_smi_vehicles">
-                                <Original>Vehicles (%1)</Original>
-                                <English>Vehicles (%1)</English>
-                                <Portuguese>Veículos (%1)</Portuguese>
-                                <Russian>Vehicles (%1)</Russian>
-                                <Chinesesimp>载具 (%1)</Chinesesimp>
-                                <Chinese>载具 (%1)</Chinese>
-                        </Key>
-                        <Key ID="str_smi_traders">
-                                <Original>Traders (%1)</Original>
-                                <English>Traders (%1)</English>
-                                <Portuguese>Traders (%1)</Portuguese>
-                                <Russian>Traders (%1)</Russian>
-                                <Chinesesimp>交易者 (%1)</Chinesesimp>
-                                <Chinese>交易者 (%1)</Chinese>
-                        </Key>
+				<Original>Dead ATM Fix</Original>
+				<English>Dead ATM Fix</English>
+				<Portuguese>Concerto de ATM Desativado</Portuguese>
+				<Russian>Dead ATM Fix</Russian>
+				<Chinesesimp>修复毁坏的ATM机</Chinesesimp>
+				<Chinese>修复毁坏的ATM机</Chinese>
+			</Key>
+			<Key ID="str_show_map_icons_on_off">
+				<Original>Select Map Icons</Original>
+				<English>Select Map Icons</English>
+				<Portuguese>Selecione Icones no Mapa</Portuguese>
+				<Russian>Select Map Icons</Russian>
+				<Chinesesimp>显示/隐藏地图上的图标</Chinesesimp>
+				<Chinese>显示/隐藏地图上的图标</Chinese>
+			</Key>
+			<Key ID="str_smi_missions">
+				<Original>Missions (%1)</Original>
+				<English>Missions (%1)</English>
+				<Portuguese>Missões (%1)</Portuguese>
+				<Russian>Missions (%1)</Russian>
+				<Chinesesimp>任务 (%1)</Chinesesimp>
+				<Chinese>任务 (%1)</Chinese>
+			</Key>
+			<Key ID="str_smi_player_stuff">
+				<Original>Player Stuff (%1)</Original>
+				<English>Player Stuff (%1)</English>
+				<Portuguese>Coisas do Player (%1)</Portuguese>
+				<Russian>Player Stuff (%1)</Russian>
+				<Chinesesimp>玩家的东西 (%1)</Chinesesimp>
+				<Chinese>玩家的东西 (%1)</Chinese>
+			</Key>
+			<Key ID="str_smi_other_stuff">
+				<Original>Other (%1)</Original>
+				<English>Other (%1)</English>
+				<Portuguese>Outros (%1)</Portuguese>
+				<Russian>Other (%1)</Russian>
+				<Chinesesimp>其他 (%1)</Chinesesimp>
+				<Chinese>其他 (%1)</Chinese>
+			</Key>
+			<Key ID="str_title_map_icons">
+				<Original>SELECT MAP ICONS TO SHOW</Original>
+				<English>SELECT MAP ICONS TO SHOW</English>
+				<Portuguese>SELECIONE ICONES DO MAPA PARA MOSTRAR</Portuguese>
+				<Russian>SELECT MAP ICONS TO SHOW</Russian>
+				<Chinesesimp>选择要显示在地图上的图标</Chinesesimp>
+				<Chinese>选择要显示在地图上的图标</Chinese>
+			</Key>
+			<Key ID="str_smi_units">
+				<Original>Units and Zombies (%1)</Original>
+				<English>Units and Zombies (%1)</English>
+				<Portuguese>Unidades e Zumbis (%1)</Portuguese>
+				<Russian>Units and Zombies (%1)</Russian>
+				<Chinesesimp>丧尸和单位 (%1)</Chinesesimp>
+				<Chinese>丧尸和单位 (%1)</Chinese>
+			</Key>
+			<Key ID="str_smi_vehicles">
+				<Original>Vehicles (%1)</Original>
+				<English>Vehicles (%1)</English>
+				<Portuguese>Veículos (%1)</Portuguese>
+				<Russian>Vehicles (%1)</Russian>
+				<Chinesesimp>载具 (%1)</Chinesesimp>
+				<Chinese>载具 (%1)</Chinese>
+			</Key>
+			<Key ID="str_smi_traders">
+				<Original>Traders (%1)</Original>
+				<English>Traders (%1)</English>
+				<Portuguese>Traders (%1)</Portuguese>
+				<Russian>Traders (%1)</Russian>
+				<Chinesesimp>交易者 (%1)</Chinesesimp>
+				<Chinese>交易者 (%1)</Chinese>
+			</Key>
 			<Key ID="str_free_c">
 				<Original></Original>
 				<English></English>
