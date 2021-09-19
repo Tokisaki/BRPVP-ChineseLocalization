@@ -6,4 +6,4 @@ Arma3 BRPVP模组简体中文本地化项目
 BRPVP官方站:https://www.brpvp.com.br/
 BRPVP发布站：https://www.brpvp.com/
 
-###目前主分支适配版本V131 B3
+###目前主分支适配版本V131 B4
