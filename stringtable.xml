@@ -3511,8 +3511,8 @@
 				<English>Special</English>
 				<Portuguese>Especiais</Portuguese>
 				<Russian>Особое</Russian>
-				<Chinesesimp>特殊装备</Chinesesimp>
-				<Chinese>特殊装备</Chinese>
+				<Chinesesimp>特殊</Chinesesimp>
+				<Chinese>特殊</Chinese>
 			</Key>
 			<Key ID="str_mkt_sub1_2">
 				<Original>Helmets</Original>
@@ -3527,8 +3527,8 @@
 				<English>Basic</English>
 				<Portuguese>Basica</Portuguese>
 				<Russian>Базовые</Russian>
-				<Chinesesimp>基本光学瞄准镜</Chinesesimp>
-				<Chinese>基本光学瞄准镜</Chinese>
+				<Chinesesimp>基本</Chinesesimp>
+				<Chinese>基本</Chinese>
 			</Key>
 			<Key ID="str_mkt_sub10_1">
 				<Original>Mid-range</Original>
