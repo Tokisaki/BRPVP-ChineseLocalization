@@ -3847,8 +3847,8 @@
 				<English>A civil plane crashed. Check the map!\nSomeone jumped from the plane!</English>
 				<Portuguese>Um avião civil caiu. Cheque o mapa!\nO piloto foi visto saltando!</Portuguese>
 				<Russian>Разбился гражданский самолёт. Проверь карту!\nПилот выжил!</Russian>
-				<Chinesesimp>一架飞机刚刚坠毁了，看看地图！\n有人从飞机上跳伞了！</Chinesesimp>
-				<Chinese>一架飞机刚刚坠毁了，看看地图！\n有人从飞机上跳伞了！</Chinese>
+				<Chinesesimp>好了!我们找到那架飞机了，坐标已经发给你了，看看地图\n有人从飞机逃出来了！</Chinesesimp>
+				<Chinese>好了!我们找到那架飞机了，坐标已经发给你了，看看地图\n有人从飞机逃出来了！</Chinese>
 			</Key>
 			<Key ID="str_plane_fall_started">
 				<Original>Plane crash started.\nCan take some time before the plane appears on the map.</Original>
@@ -4199,8 +4199,8 @@
 				<English>SELECT YOUR RESPAWN PLACE!\n(ORANGE CIRCLES ON THE MAP)\nSHIFT + CLICK ON THE MAP TO SET YOUR VIEW DIRECTION!</English>
 				<Portuguese>SELECIONE SEU LOCAL DE NASCIMENTO!\n(CIRCULOS ALARANJADOS NO MAPA)\nSHIFT + CLICK NO MAPA PARA DEFINIR A DIRECAO!</Portuguese>
 				<Russian>ВЫБЕРИ МЕСТО ПОЯВЛЕНИЯ!\n(ОРАНЖЕВЫЕ КРУГИ)\n[Shift + Click] НА КАРТЕ ДЛЯ ВЫБОРА НАПРАВЛЕНИЯ ВЗГЛЯДА!</Russian>
-				<Chinesesimp>请选择您的重生地点!\n(点击地图上的橙色圆圈)\nSHIFT + 左键 在地图上设置视图方向!</Chinesesimp>
-				<Chinese>请选择您的重生地点!\n(点击地图上的橙色圆圈)\nSHIFT + 左键 在地图上设置视图方向!</Chinese>
+				<Chinesesimp>请选择您的重生地点!\n(点击地图上的橙色圆圈)\nSHIFT + 左键 在地图上设置视线方向!</Chinesesimp>
+				<Chinese>请选择您的重生地点!\n(点击地图上的橙色圆圈)\nSHIFT + 左键 在地图上设置视线方向!</Chinese>
 			</Key>
 			<Key ID="str_server">
 				<Original>SERVER</Original>
@@ -4263,8 +4263,8 @@
 				<English>Civil Shop</English>
 				<Portuguese>Shop Civil</Portuguese>
 				<Russian>Магазин Гражданской Техники</Russian>
-				<Chinesesimp>民用商店</Chinesesimp>
-				<Chinese>民用商店</Chinese>
+				<Chinesesimp>便利店</Chinesesimp>
+				<Chinese>便利店</Chinese>
 			</Key>
 			<Key ID="str_shop_scp">
 				<Original>Car Shop</Original>
@@ -4639,8 +4639,8 @@
 				<English>Your entire squad will be protected from your turrets attack.</English>
 				<Portuguese>Seu pelotão ficara protegido de suas turrets.</Portuguese>
 				<Russian>Твои турели не будут атаковать твою группу.</Russian>
-				<Chinesesimp>你的整个队伍都会受到保护，免受炮塔攻击</Chinesesimp>
-				<Chinese>你的整个队伍都会受到保护，免受炮塔攻击</Chinese>
+				<Chinesesimp>你的整个队伍都会受到保护，免受己方炮塔攻击</Chinesesimp>
+				<Chinese>你的整个队伍都会受到保护，免受己方炮塔攻击</Chinese>
 			</Key>
 			<Key ID="str_squad_pass">
 				<Original>%1 made you the new squad leader.</Original>
@@ -4727,8 +4727,8 @@
 				<English>Surrender</English>
 				<Portuguese>Render</Portuguese>
 				<Russian>Сдавайся!</Russian>
-				<Chinesesimp>投降</Chinesesimp>
-				<Chinese>投降</Chinese>
+				<Chinesesimp>命令投降</Chinesesimp>
+				<Chinese>命令投降</Chinese>
 			</Key>
 			<Key ID="str_szone_cant_enter">
 				<Original>CAN'T ENTER IN SAFEZONE!</Original>
@@ -4855,8 +4855,8 @@
 				<English>You cant. This vehicle is not in good condition.</English>
 				<Portuguese>Este veiculo não esta em condições de ser rebocado.</Portuguese>
 				<Russian>Никак. Транспорт требует починки.</Russian>
-				<Chinesesimp>你不能，这个载具需要修理！</Chinesesimp>
-				<Chinese>你不能，这个载具需要修理！</Chinese>
+				<Chinesesimp>不能这么做，这个载具需要修理！</Chinesesimp>
+				<Chinese>不能这么做，这个载具需要修理！</Chinese>
 			</Key>
 			<Key ID="str_tow_driver_pos">
 				<Original>The driver position must be free!</Original>
@@ -5511,8 +5511,8 @@
 				<English>Use SLAT</English>
 				<Portuguese>Proteção SLAT</Portuguese>
 				<Russian>Использовать SLAT</Russian>
-				<Chinesesimp>使用装甲</Chinesesimp>
-				<Chinese>使用装甲</Chinese>
+				<Chinesesimp>使用附加装甲</Chinesesimp>
+				<Chinese>使用附加装甲</Chinese>
 			</Key>
 			<Key ID="str_cover_camonet_slat">
 				<Original>Use camonet and slat</Original>
@@ -6079,8 +6079,8 @@
 				<English>You can't use master keys in this area.</English>
 				<Portuguese>Você não pode utilizar chaves mestrar nesta área.</Portuguese>
 				<Russian>Никак! Здесь нельзя использовать отмычку.</Russian>
-				<Chinesesimp>你不能在这个区域使用撬锁</Chinesesimp>
-				<Chinese>你不能在这个区域使用撬锁</Chinese>
+				<Chinesesimp>你不能在这个区域使用撬锁工具</Chinesesimp>
+				<Chinese>你不能在这个区域使用撬锁工具</Chinese>
 			</Key>
 			<Key ID="str_weapons_on_ground">
 				<Original>Your weapons are on the ground!</Original>
@@ -10871,8 +10871,8 @@
 				<English>Crime Hotel</English>
 				<Portuguese>Hotel do Crime</Portuguese>
 				<Russian>Crime Hotel</Russian>
-				<Chinesesimp>犯罪大酒店</Chinesesimp>
-				<Chinese>犯罪大酒店</Chinese>
+				<Chinesesimp>大陆酒店</Chinesesimp>
+				<Chinese>大陆酒店</Chinese>
 			</Key>
 			<Key ID="str_pmiss_hotel_cant_open">
 				<Original>Zarabell will not talk to you, kill more %1 criminals!</Original>
