@@ -8167,8 +8167,8 @@
 				<English>WAVE %1 START!</English>
 				<Portuguese>INICIO DA WAVE %1!</Portuguese>
 				<Russian>ВОЛНА %1 НАЧАЛАСЬ!</Russian>
-				<Chinesesimp>波数 %1 开始！</Chinesesimp>
-				<Chinese>波数 %1 开始！</Chinese>
+				<Chinesesimp>波次 %1 开始！</Chinesesimp>
+				<Chinese>波次 %1 开始！</Chinese>
 			</Key>
 			<Key ID="str_gate_limit_cant">
 				<Original>You reached the limit of %1 gates on the flag!</Original>
@@ -8623,8 +8623,8 @@
 				<English>(   ) Show Good Loot</English>
 				<Portuguese>(   ) Mostrar loot bom</Portuguese>
 				<Russian>(   ) Показать Вкусный Лут</Russian>
-				<Chinesesimp>(   ) 显示好战利品</Chinesesimp>
-				<Chinese>(   ) 显示好战利品</Chinese>
+				<Chinesesimp>(   ) 显示高价值战利品</Chinesesimp>
+				<Chinese>(   ) 显示高价值战利品</Chinese>
 			</Key>
 			<Key ID="str_menu_show_good_loot_on">
 				<Original>(X) Show Good Loot</Original>
@@ -8647,8 +8647,8 @@
 				<English>Base Bomb</English>
 				<Portuguese>Bomba de Base</Portuguese>
 				<Russian>Бомба для Базы</Russian>
-				<Chinesesimp>基础炸弹</Chinesesimp>
-				<Chinese>基础炸弹</Chinese>
+				<Chinesesimp>基地炸弹</Chinesesimp>
+				<Chinese>基地炸弹</Chinese>
 			</Key>
 			<Key ID="str_title_get_special_items">
 				<Original>SPECIAL ITEMS INSIDE</Original>
@@ -9055,8 +9055,8 @@
 				<English>Bipods</English>
 				<Portuguese>Bipés</Portuguese>
 				<Russian>Сошки</Russian>
-				<Chinesesimp>脚架</Chinesesimp>
-				<Chinese>脚架</Chinese>
+				<Chinesesimp>两脚架</Chinesesimp>
+				<Chinese>两脚架</Chinese>
 			</Key>
 			<Key ID="str_dead_players">
 				<Original>Dead Players</Original>
